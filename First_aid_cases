@@ -1,287 +1,374 @@
 [
   {
     "title": "Snake Bite",
-    "details": "Quickly and safely distance yourself from the snake. Wrap the bitten limb with a crepe or elastic bandage, starting below the bite and working upwards. Ensure it's snug but not too tight (you should be able to slide a finger underneath).",
+    "details": "Quickly and safely distance yourself from the snake. Wrap the bitten limb with a crepe or elastic bandage, starting below the bite and working upwards. 
+    Ensure it's snug but not too tight (you should be able to slide a finger underneath).",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Burning",
-    "details": "Hold the area under cool — not cold — running water for about 10 minutes. If this isn't possible or if the burn is on the face, apply a cool, wet cloth until the pain eases. For a mouth burn from hot food or drink, put a piece of ice in the mouth for a few minutes. Remove rings or other tight items.",
+    "details": "Hold the area under cool — not cold — running water for about 10 minutes. 
+    If this isn't possible or if the burn is on the face, apply a cool, wet cloth until the pain eases. 
+    For a mouth burn from hot food or drink, put a piece of ice in the mouth for a few minutes. Remove rings or other tight items.",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Head Injury",
-    "details": "Basic first aid steps for head injury include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "In the initial stage of a head injury, the most crucial first aid steps are to ensure the person's airway, breathing, and circulation (ABCs), 
+     stabilize the neck, and control any bleeding. After checking ABCs, if there are no signs of breathing or circulation, begin CPR.
+     If there are signs of breathing and circulation, stabilize the head and neck to prevent further injury. ",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Stomach Pain",
-    "details": "Basic first aid steps for stomach pain include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "For initial first aid for stomach pain, focus on staying hydrated by sipping clear fluids like water and avoiding solid foods for a few hours. If vomiting is present, wait six hours before introducing small amounts of bland foods like rice or applesauce, according to MedlinePlus.
+    Applying a warm compress or heating pad to the abdomen can also help ease discomfort. ",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Back Pain",
-    "details": "Basic first aid steps for back pain include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "In the initial stage of back pain, the primary goal is to reduce pain and inflammation. Rest, ice or heat application, and over-the-counter pain relievers can be helpful.
+     Gradually resuming normal activities is encouraged, as prolonged bed rest can worsen symptoms. ",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Foot Pain",
-    "details": "Basic first aid steps for foot pain include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "For initial first aid for foot pain, the RICE method is recommended: Rest, Ice, Compression, and Elevation. Rest the foot, apply ice for 15-20 minutes at a time, wrap with a bandage for compression, and keep it elevated above your heart.
+    Over-the-counter pain relievers can also help manage pain. ",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Leg Broken",
-    "details": "Basic first aid steps for leg broken include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "In the initial stage of first aid for a suspected broken leg, focus on controlling bleeding (if any), immobilizing the limb, managing pain, and watching for signs of shock.
+    Do not attempt to straighten the bone or push a bone that is sticking out back in. Seek professional medical help immediately. ",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Hand Broken",
-    "details": "Basic first aid steps for hand broken include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "For a suspected broken hand, the initial first aid steps involve controlling bleeding (if any), supporting the injured area to prevent further movement, and applying ice to reduce swelling and pain.
+    It's crucial to seek professional medical help immediately for proper diagnosis and treatment. ",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Finger Broken",
-    "details": "Basic first aid steps for finger broken include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "For a suspected broken finger, the initial first aid steps involve immobilizing the finger, controlling bleeding (if any), and applying ice to reduce swelling and pain. 
+    It's crucial to avoid moving the finger and to seek medical attention promptly. ",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Cut",
-    "details": "Basic first aid steps for cut include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "The first step in treating a minor cut or scrape is to wash your hands thoroughly with soap and water to prevent infection. 
+     Then, stop the bleeding by applying direct pressure to the wound with a clean cloth or bandage for a few minutes. 
+     Clean the wound gently with cool running water and mild soap, avoiding getting soap directly into the cut. 
+     Remove any debris with tweezers cleaned with alcohol, if necessary.
+    Finally, cover the wound with a sterile bandage to keep it clean and prevent infection.",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Vomiting",
-    "details": "Basic first aid steps for vomiting include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "In the initial stage of first aid for vomiting, the priority is to ensure the person's comfort and prevent dehydration. 
+     Offer small sips of clear liquids like water or an oral rehydration solution (ORS) to replace lost fluids, and encourage rest.
+     Avoid giving solid foods or sugary drinks initially, as they can worsen nausea and vomiting. ",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Car Accident",
-    "details": "Basic first aid steps for car accident include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "In the initial stage of first aid for a car accident, the priorities are ensuring safety, calling for help, assessing the situation, and managing life-threatening injuries. 
+     This includes checking for responsiveness, airway, breathing, and circulation (ABCs) and addressing any immediate threats like severe bleeding. ",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Bike Accident",
-    "details": "Basic first aid steps for bike accident include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "In the initial stage of a bike accident, prioritize safety, assess the situation, and call for help. Check for injuries, stop any bleeding, and keep the injured person warm and calm. If conscious, reassure them and encourage them to stay still. 
+    If unconscious, check for breathing and pulse, and begin CPR if trained, after calling emergency services. ",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Dog Bite",
-    "details": "Basic first aid steps for dog bite include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "In the initial stage of a dog bite, the first priority is to stop any bleeding by applying pressure to the wound with a clean cloth. Then, wash the wound thoroughly with soap and water for several minutes to remove bacteria. Next, apply an antibiotic ointment and cover the area with a sterile bandage. Seek medical attention if the bite is severe, 
+    if there are signs of infection, or if you haven't had a tetanus shot in the last five years.",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Cat Bite",
-    "details": "Basic first aid steps for cat bite include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "The initial stage of first aid for a cat bite involves thoroughly cleaning the wound and controlling any bleeding. Washing the wound with soap and water for at least 5 minutes is crucial to remove bacteria. Applying direct pressure with a clean bandage or towel can help stop bleeding. Seek professional medical attention, 
+     especially for deep bites or if the cat is unvaccinated, to assess the need for further treatment like antibiotics or a tetanus booster.",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Nose Injury",
-    "details": "Basic first aid steps for nose injury include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "For initial first aid for a nose injury, the primary focus is on stopping any bleeding, reducing pain and swelling, and preventing further injury.
+    This involves sitting upright, leaning forward slightly, applying pressure to the nose, and using cold compresses. 
+    If the bleeding is severe, doesn't stop, or the injury is significant (deformity, difficulty breathing), seek immediate medical attention.",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Fever",
-    "details": "Basic first aid steps for fever include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "In the initial stage of a fever, the main focus is on comfort and hydration while monitoring for any concerning symptoms. 
+     Encourage rest, offer plenty of fluids like water or diluted juice, and dress the person in light clothing. If shivering occurs, use a light blanket until it subsides. 
+     Avoid aspirin for children and teenagers, and consult a doctor for infants under 6 months.",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Choking",
-    "details": "Basic first aid steps for choking include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "If someone is choking, encourage them to cough. ...
+     Bend them forwards and give up to 5 back blows to try and dislodge the blockage. ...
+     If they are still choking, give up to 5 abdominal thrusts: hold around the waist and pull inwards and upwards above their belly button..",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Sprain",
-    "details": "Basic first aid steps for sprain include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "The initial first aid for a sprain involves the RICE method: Rest, Ice, Compression, and Elevation. 
+     This helps to reduce pain and swelling and promote healing.",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Dehydration",
-    "details": "Basic first aid steps for dehydration include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "In the initial stage of dehydration, the primary goal is to rehydrate the body by replenishing lost fluids and electrolytes. 
+     For mild cases, this can be achieved by drinking water and electrolyte-rich drinks like sports drinks. If dehydration is more severe, especially in infants or individuals experiencing vomiting or diarrhea, 
+    oral rehydration solutions or even intravenous fluids may be necessary.",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Poisoning",
-    "details": "Basic first aid steps for poisoning include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "First steps If the person inhaled poison, get him or her fresh air right away. If the person has poison on the skin, take off any clothing the poison touched. Rinse skin with running water for 15 to 20 minutes. 
+     If the person has poison in the eyes, rinse eyes with running water for 15 to 20 minutes.",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Asthma Attack",
-    "details": "Basic first aid steps for asthma attack include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "In the initial stage of an asthma attack, the most important first aid steps are to stay calm, help the person sit upright, and assist them with their reliever inhaler (usually blue or grey). If they have a spacer, use it with the inhaler. 
+    Ensure they take slow, deep breaths after each puff, and wait a few minutes to assess if symptoms improve. 
+     If there's no improvement or the attack worsens, seek immediate medical help.",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Toothache",
-    "details": "Basic first aid steps for toothache include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "For initial first aid for a toothache attack, the focus is on temporary pain relief and preventing further irritation. 
+     Rinsing with warm salt water, flossing to remove trapped food, and applying a cold compress are good first steps. 
+    Over-the-counter pain relievers can also help, but it's crucial to consult a dentist for proper diagnosis and treatment of the underlying cause.",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Eye Injury",
-    "details": "Basic first aid steps for eye injury include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "In the initial stage of an eye injury attack, prioritize safety by preventing further harm and seeking professional medical help. 
+     Avoid rubbing the eye, and flush it with water for chemical burns. For foreign objects, try to dislodge them by blinking or flushing with water, but do not attempt to remove deeply embedded objects. 
+     Protect the injured eye with a clean, moist cloth and seek immediate medical attention for any serious injury.",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Fracture",
-    "details": "Basic first aid steps for fracture include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "In the initial stage of first aid for a suspected fracture, focus on immobilizing the injured area, controlling bleeding if present, and providing comfort and support. 
+     Avoid moving the injured person unless absolutely necessary and if there is a spinal injury, maintain the spine in a neutral position.",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Drowning",
-    "details": "Basic first aid steps for drowning include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "The initial stage of drowning first aid focuses on ensuring the safety of both the victim and the rescuer, then assessing the victim's breathing and providing rescue breaths if needed, followed by CPR if there's no breathing. 
+     It's crucial to act quickly and efficiently while prioritizing safety.",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Electric Shock",
-    "details": "Basic first aid steps for electric shock include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "In the initial stage of first aid for an electrical shock, the most crucial step is to ensure safety by immediately disconnecting the power source. 
+     Do not touch the person while they are still in contact with the electrical current. 
+     Once the power is off, assess the person's consciousness and breathing, and be prepared to administer CPR if needed.",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Sunburn",
-    "details": "Basic first aid steps for sunburn include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "The first steps in treating a sunburn involve cooling the skin, moisturizing, and pain relief. 
+     Immediately move out of the sun and gently cool the affected area with cool (not cold) water, either by showering or applying a cool, damp cloth. 
+     Apply a moisturizer,preferably with aloe vera or soy, and consider taking over-the-counter pain relievers like ibuprofen or acetaminophen to reduce pain and inflammation.",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Hypothermia",
-    "details": "Basic first aid steps for hypothermia include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "In the initial stage of hypothermia, the most crucial first aid steps are to move the person to a warmer place, remove any wet clothing, and dry them off. 
+     Then, wrap them in warm blankets or clothing, focusing on covering the head and trunk. If available, use warm compresses on the neck, chest, and groin, avoiding the limbs. 
+     Offer warm, non-alcoholic, non-caffeinated beverages if they are alert and able to swallow.",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Heat Stroke",
-    "details": "Basic first aid steps for heat stroke include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "In the initial stage of heat stroke first aid, the primary goal is to rapidly cool the person down while waiting for emergency medical help. 
+     Move the person to a cool place, remove excess clothing, and use cooling methods like applying cool, wet cloths, or immersing them in cool water (if safe and possible). 
+     Monitor their condition and call emergency services immediately if they show signs of shock or lose consciousness.",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Seizure",
-    "details": "Basic first aid steps for seizure include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "The initial steps for providing first aid during a seizure are to ensure the person's safety, stay with them, and time the seizure. 
+     Remove any nearby hazards, cushion their head, and gently roll them onto their side if they're not already in that position. 
+     Do not restrain the person, put anything in their mouth, or attempt mouth-to-mouth resuscitation.",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Ear Bleeding",
-    "details": "Basic first aid steps for ear bleeding include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "For initial first aid for ear bleeding, the main focus is on stopping the bleeding, protecting the ear, and managing pain.
+    First, apply gentle pressure to the area with a clean cloth or sterile gauze to control the bleeding. 
+    Avoid putting anything into the ear canal and do not try to clean the ear extensively. 
+    Apply a cold compress (wrapped in a cloth) to reduce pain and swelling. 
+    If the bleeding is severe, or if there are signs of infection (redness, swelling, discharge),seek medical attention.",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Nail Injury",
-    "details": "Basic first aid steps for nail injury include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "For initial first aid of a nail injury, the primary goal is to clean the wound, manage pain and swelling, and prevent infection. This includes gently washing the area, trimming any loose nail fragments, and applying a bandage. 
+    If the injury is severe (deep cut, nail bed damage, or excessive bleeding), seek immediate medical attention according to Nationwide Children's Hospital and according to Medical News Today.",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Blisters",
-    "details": "Basic first aid steps for blisters include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "For a blister in its initial stage, the primary goal is to protect it from further irritation and infection. 
+     Small, unbroken blisters should ideally be left alone to heal naturally. 
+    If the blister is large and painful, or if it has broken open, gentle cleaning and covering with a bandage is recommended.",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Allergic Reaction",
-    "details": "Basic first aid steps for allergic reaction include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "In the initial stage of an allergic reaction, focus on calming the individual, identifying the allergen if possible, and monitoring for worsening symptoms. 
+     For mild reactions, over-the-counter antihistamines and cool compresses can help. 
+     If symptoms include difficulty breathing, swelling, or signs of shock, seek immediate medical attention and use an epinephrine autoinjector if available.",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Heart Attack",
-    "details": "Basic first aid steps for heart attack include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "If you're trained in CPR and confident in your ability, start with 30 chest compressions before giving two rescue breaths. 
+     Use an automated external defibrillator (AED) if one is available and the person is unconscious. 
+     The device delivers shocks to reset the heart rhythm..",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Stroke",
-    "details": "Basic first aid steps for stroke include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "In the initial stage of stroke first aid, the priority is to recognize the signs, call emergency services immediately, and ensure the person's safety and comfort while waiting for professional help. 
+     Do not attempt to diagnose the stroke yourself or give any medication or food.",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Diarrhea",
-    "details": "Basic first aid steps for diarrhea include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "In the initial stage of diarrhea, the primary goal is to prevent dehydration by replacing lost fluids and electrolytes. 
+     Rehydration is crucial, especially for vulnerable individuals like children and the elderly. Oral rehydration solutions (ORS) are effective for this purpose. 
+     Additionally, gentle dietary adjustments, such as consuming bland, low-fiber foods, can help manage symptoms.",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Constipation",
-    "details": "Basic first aid steps for constipation include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "In the initial stage of constipation, first aid focuses on dietary and lifestyle adjustments to encourage bowel movements. 
+     Drinking more water, increasing fiber intake, and engaging in regular physical activity are key steps. 
+     Over-the-counter options like stool softeners or osmotic laxatives can also be considered under the guidance of a pharmacist.",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Menstrual Pain",
-    "details": "Basic first aid steps for menstrual pain include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "For initial first aid of menstrual pain (also known as dysmenorrhea), focus on simple, readily available methods to ease discomfort and reduce pain. 
+     These include applying heat to the lower abdomen, practicing relaxation techniques, and considering over-the-counter pain relievers.",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Panic Attack",
-    "details": "Basic first aid steps for panic attack include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "In the initial stage of a panic attack, the most crucial first aid is to stay calm, reassure the person, and help them focus on their breathing. 
+     Remove any potential triggers if possible and guide them to a quiet space. 
+     Speak in short, simple sentences and encourage slow, deep breaths. Remember, panic attacks are temporary and the person is not in danger.",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Insect Sting",
-    "details": "Basic first aid steps for insect sting include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "For initial first aid of an insect sting, first ensure safety by moving away from the area and removing any stingers if present. 
+     Clean the sting site with soap and water. Reduce pain and swelling with a cold pack, and consider using calamine lotion or baking soda paste for itching relief.",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Wound Infection",
-    "details": "Basic first aid steps for wound infection include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "In the initial stage of wound infection first aid, the primary goal is to prevent further contamination and promote healing. 
+     This involves washing your hands thoroughly, stopping any bleeding, cleaning the wound, applying an antibiotic ointment (if appropriate), and covering the wound with a bandage. 
+    It's crucial to monitor the wound for signs of infection and seek medical attention if needed.",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Scalding",
-    "details": "Basic first aid steps for scalding include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "The initial stage of first aid for a scalding burn focuses on immediately cooling the burn and protecting it from infection. 
+     This involves running cool (not cold) water over the burn for 10-20 minutes, covering it loosely with a sterile bandage, and managing pain. ",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Chest Pain",
-    "details": "Basic first aid steps for chest pain include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "Start CPR if the person doesn't have a pulse or isn't breathing. If you're untrained in CPR, do hands-only CPR. 
+     That means push hard and fast on the person's chest about 100 to 120 times a minute. 
+     If you're trained in CPR and confident in your ability, start with 30 chest compressions before giving two rescue breaths.",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Nosebleed",
-    "details": "Basic first aid steps for nosebleed include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "For initial first aid in a nosebleed, sit upright and lean slightly forward to prevent swallowing blood, pinch the soft part of the nose firmly for at least 10 minutes, and breathe through the mouth. 
+     Applying a cold compress to the bridge of the nose or the back of the neck can also help constrict blood vessels.",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Jaw Injury",
-    "details": "Basic first aid steps for jaw injury include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "In the initial stage of a jaw injury, the priority is to stabilize the jaw, manage pain, and prevent further damage.
+    Gently support the jaw with your hands, and if possible, use a bandage or cloth to keep it stable. 
+    Applying a cold compress can help reduce swelling and pain. 
+     Seek immediate medical attention, even if initial measures provide some relief.",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Scorpion Sting",
-    "details": "Basic first aid steps for scorpion sting include staying calm, ensuring safety, and seeking appropriate medical attention.",
-    "remarkes": "Always consult a doctor for serious cases"
-  },
-  {
-    "title": "Bee Sting",
-    "details": "Basic first aid steps for bee sting include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "For a scorpion sting, the initial first aid steps include cleaning the wound, applying a cool compress, and managing pain with over-the-counter medication if needed. 
+    It's also important to keep the affected limb still and elevated, and to remove any tight clothing or jewelry from the area. 
+     Seeking medical advice is crucial, especially if symptoms worsen or if the scorpion is known to be venomous.",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Lice Infestation",
-    "details": "Basic first aid steps for lice infestation include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "In the initial stages of a lice infestation, the most important first aid steps involve identifying the infestation, using appropriate over-the-counter treatments, and taking preventative measures to stop the spread. 
+    If these steps are not successful, consulting a healthcare professional is recommended.",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Foreign Object in Eye",
-    "details": "Basic first aid steps for foreign object in eye include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "First Aid for Foreign Objects in Eye: 13 Effective Steps ...For a foreign object in the eye, initial first aid involves gently examining the eye in a well-lit area, 
+    flushing it with water if possible, and avoiding rubbing or attempting to remove deeply embedded objects. 
+     If the object is not easily removed or if there's pain, redness, or vision changes, seek immediate medical attention.",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Foreign Object in Nose",
-    "details": "Basic first aid steps for foreign object in nose include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "For initial first aid with a foreign object in the nose, the key is to avoid pushing the object further in and to try to dislodge it gently. 
+     If the object is partially visible, try gently grasping and removing it with tweezers. If the object is not visible or if gentle attempts fail, seek medical help. 
+     Do not probe the nose with your fingers or try to blow forcefully, as this can push the object deeper. .",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Foreign Object in Ear",
-    "details": "Basic first aid steps for foreign object in ear include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "For initial first aid with a foreign object in the ear, assess the situation, try gentle removal methods, and seek professional help if needed. 
+     Avoid probing or using cotton swabs, as this can push the object further in. 
+     If it's an insect, try using warm oil to dislodge it. If there's pain, bleeding, or the object is not easily removable, go to a doctor immediately.",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Mouth Injury",
-    "details": "Basic first aid steps for mouth injury include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "For minor mouth injuries, the initial first aid steps include stopping any bleeding by applying direct pressure with a clean cloth, rinsing the area with cool water, and using ice to reduce swelling. 
+     For deeper cuts or if bleeding doesn't stop, seek professional medical attention.",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Chemical Burn",
-    "details": "Basic first aid steps for chemical burn include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "The initial stage of first aid for a chemical burn involves immediate and prolonged flushing of the affected area with cool, running water to remove the chemical and minimize further damage. 
+     Clothing and jewelry should be removed, and the area should be covered with a clean, dry cloth. 
+     Seek immediate medical attention, especially for severe burns or burns to sensitive areas like the eyes or mouth.",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Hand Cramp",
-    "details": "Basic first aid steps for hand cramp include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "For initial stage hand cramps, focus on immediate pain relief and muscle relaxation. Gently stretch the affected hand and fingers, apply a warm compress or soak the hand in warm water to improve circulation and relax muscles. 
+     Rest the hand and consider gentle massage. If the cramp persists or is severe, seek professional medical advice. ",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Leg Cramps",
-    "details": "Basic first aid steps for leg cramps include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "In the initial stage of a leg cramp, focus on stopping the activity causing the cramp, stretching the affected muscle, and massaging it gently. 
+    Applying heat or cold, and over-the-counter pain relievers can also help manage pain and discomfort.",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
