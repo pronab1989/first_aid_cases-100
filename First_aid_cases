@@ -503,5 +503,10 @@
     "title": "Lung Infection",
     "details": "Basic first aid steps for lung infection include staying calm, ensuring safety, and seeking appropriate medical attention.",
     "remarkes": "Always consult a doctor for serious cases"
-  }
+  },
+{
+  "title": "Bee Sting",
+  "details": "quickly remove the stinger (if present) by scraping it out with a fingernail or credit card, wash the area with soap and water, and apply a cold compress to reduce swelling and pain. If the person is allergic, seek immediate medical attention. ",
+  "remarkes": "Always consult a doctor for serious cases"
+}
 ]
