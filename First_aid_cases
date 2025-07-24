@@ -1,0 +1,507 @@
+[
+  {
+    "title": "Snake Bite",
+    "details": "Basic first aid steps for snake bite include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Burning",
+    "details": "Basic first aid steps for burning include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Head Injury",
+    "details": "Basic first aid steps for head injury include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Stomach Pain",
+    "details": "Basic first aid steps for stomach pain include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Back Pain",
+    "details": "Basic first aid steps for back pain include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Foot Pain",
+    "details": "Basic first aid steps for foot pain include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Leg Broken",
+    "details": "Basic first aid steps for leg broken include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Hand Broken",
+    "details": "Basic first aid steps for hand broken include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Finger Broken",
+    "details": "Basic first aid steps for finger broken include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Cut",
+    "details": "Basic first aid steps for cut include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Vomiting",
+    "details": "Basic first aid steps for vomiting include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Car Accident",
+    "details": "Basic first aid steps for car accident include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Bike Accident",
+    "details": "Basic first aid steps for bike accident include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Dog Bite",
+    "details": "Basic first aid steps for dog bite include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Cat Bite",
+    "details": "Basic first aid steps for cat bite include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Nose Injury",
+    "details": "Basic first aid steps for nose injury include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Fever",
+    "details": "Basic first aid steps for fever include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Choking",
+    "details": "Basic first aid steps for choking include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Sprain",
+    "details": "Basic first aid steps for sprain include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Dehydration",
+    "details": "Basic first aid steps for dehydration include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Poisoning",
+    "details": "Basic first aid steps for poisoning include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Asthma Attack",
+    "details": "Basic first aid steps for asthma attack include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Toothache",
+    "details": "Basic first aid steps for toothache include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Eye Injury",
+    "details": "Basic first aid steps for eye injury include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Fracture",
+    "details": "Basic first aid steps for fracture include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Drowning",
+    "details": "Basic first aid steps for drowning include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Electric Shock",
+    "details": "Basic first aid steps for electric shock include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Sunburn",
+    "details": "Basic first aid steps for sunburn include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Hypothermia",
+    "details": "Basic first aid steps for hypothermia include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Heat Stroke",
+    "details": "Basic first aid steps for heat stroke include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Seizure",
+    "details": "Basic first aid steps for seizure include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Ear Bleeding",
+    "details": "Basic first aid steps for ear bleeding include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Nail Injury",
+    "details": "Basic first aid steps for nail injury include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Blisters",
+    "details": "Basic first aid steps for blisters include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Allergic Reaction",
+    "details": "Basic first aid steps for allergic reaction include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Heart Attack",
+    "details": "Basic first aid steps for heart attack include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Stroke",
+    "details": "Basic first aid steps for stroke include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Diarrhea",
+    "details": "Basic first aid steps for diarrhea include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Constipation",
+    "details": "Basic first aid steps for constipation include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Menstrual Pain",
+    "details": "Basic first aid steps for menstrual pain include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Panic Attack",
+    "details": "Basic first aid steps for panic attack include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Insect Sting",
+    "details": "Basic first aid steps for insect sting include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Wound Infection",
+    "details": "Basic first aid steps for wound infection include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Scalding",
+    "details": "Basic first aid steps for scalding include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Chest Pain",
+    "details": "Basic first aid steps for chest pain include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Nosebleed",
+    "details": "Basic first aid steps for nosebleed include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Jaw Injury",
+    "details": "Basic first aid steps for jaw injury include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Scorpion Sting",
+    "details": "Basic first aid steps for scorpion sting include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Bee Sting",
+    "details": "Basic first aid steps for bee sting include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Lice Infestation",
+    "details": "Basic first aid steps for lice infestation include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Foreign Object in Eye",
+    "details": "Basic first aid steps for foreign object in eye include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Foreign Object in Nose",
+    "details": "Basic first aid steps for foreign object in nose include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Foreign Object in Ear",
+    "details": "Basic first aid steps for foreign object in ear include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Mouth Injury",
+    "details": "Basic first aid steps for mouth injury include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Chemical Burn",
+    "details": "Basic first aid steps for chemical burn include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Hand Cramp",
+    "details": "Basic first aid steps for hand cramp include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Leg Cramps",
+    "details": "Basic first aid steps for leg cramps include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Swelling",
+    "details": "Basic first aid steps for swelling include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Bruises",
+    "details": "Basic first aid steps for bruises include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Cold Exposure",
+    "details": "Basic first aid steps for cold exposure include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "High Fever",
+    "details": "Basic first aid steps for high fever include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Low Blood Pressure",
+    "details": "Basic first aid steps for low blood pressure include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "High Blood Pressure",
+    "details": "Basic first aid steps for high blood pressure include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Hiccups",
+    "details": "Basic first aid steps for hiccups include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Fainting",
+    "details": "Basic first aid steps for fainting include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Hyperventilation",
+    "details": "Basic first aid steps for hyperventilation include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Skin Rash",
+    "details": "Basic first aid steps for skin rash include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Chickenpox",
+    "details": "Basic first aid steps for chickenpox include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Measles",
+    "details": "Basic first aid steps for measles include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Mumps",
+    "details": "Basic first aid steps for mumps include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Dengue Fever",
+    "details": "Basic first aid steps for dengue fever include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Malaria",
+    "details": "Basic first aid steps for malaria include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Typhoid",
+    "details": "Basic first aid steps for typhoid include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Food Poisoning",
+    "details": "Basic first aid steps for food poisoning include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Alcohol Poisoning",
+    "details": "Basic first aid steps for alcohol poisoning include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Drug Overdose",
+    "details": "Basic first aid steps for drug overdose include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Smoke Inhalation",
+    "details": "Basic first aid steps for smoke inhalation include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Carbon Monoxide Poisoning",
+    "details": "Basic first aid steps for carbon monoxide poisoning include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Bleeding Gums",
+    "details": "Basic first aid steps for bleeding gums include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Teething Pain",
+    "details": "Basic first aid steps for teething pain include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Appendicitis",
+    "details": "Basic first aid steps for appendicitis include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Gas Trouble",
+    "details": "Basic first aid steps for gas trouble include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Nausea",
+    "details": "Basic first aid steps for nausea include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Urinary Infection",
+    "details": "Basic first aid steps for urinary infection include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Groin Pain",
+    "details": "Basic first aid steps for groin pain include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Elbow Injury",
+    "details": "Basic first aid steps for elbow injury include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Wrist Injury",
+    "details": "Basic first aid steps for wrist injury include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Shoulder Dislocation",
+    "details": "Basic first aid steps for shoulder dislocation include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Neck Pain",
+    "details": "Basic first aid steps for neck pain include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Knee Injury",
+    "details": "Basic first aid steps for knee injury include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Toenail Injury",
+    "details": "Basic first aid steps for toenail injury include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Skin Infection",
+    "details": "Basic first aid steps for skin infection include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Boils",
+    "details": "Basic first aid steps for boils include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Pimples",
+    "details": "Basic first aid steps for pimples include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Swollen Glands",
+    "details": "Basic first aid steps for swollen glands include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Tick Bite",
+    "details": "Basic first aid steps for tick bite include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Leech Bite",
+    "details": "Basic first aid steps for leech bite include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Jellyfish Sting",
+    "details": "Basic first aid steps for jellyfish sting include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Food Allergy",
+    "details": "Basic first aid steps for food allergy include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Cold Sores",
+    "details": "Basic first aid steps for cold sores include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Lung Infection",
+    "details": "Basic first aid steps for lung infection include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  }
+]
