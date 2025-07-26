@@ -356,27 +356,27 @@
   },
   {
     "title": "Typhoid",
-    "details": "Basic first aid steps for typhoid include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "Basic first aid for typhoid fever focuses on supportive care, including hydration, rest, \nand nutritional support, while also emphasizing the importance of seeking medical attention for antibiotic treatment. \nEarly diagnosis and treatment with antibiotics are crucial to prevent complications.",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Food Poisoning",
-    "details": "Basic first aid steps for food poisoning include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "Food poisoning, or foodborne illness, typically resolves on its own within a few days, \nbut first aid measures can help manage symptoms and prevent complications like dehydration. \nThe main focus of first aid is to keep the person hydrated and comfortable. n.",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Alcohol Poisoning",
-    "details": "Basic first aid steps for alcohol poisoning include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "If you suspect alcohol poisoning, immediately call emergency services your local emergency number. \nDo not leave the person alone, and try to keep them awake and seated upright. \nIf they are unconscious, roll them onto their side to prevent choking on vomit. \nDo not attempt to induce vomiting, and provide them with water only if they are conscious and able to sip it without choking.",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Drug Overdose",
-    "details": "Basic first aid steps for drug overdose include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "Remove the drug from your body – for example, by giving activated charcoal, which binds the drug so the body can't absorb it. \nAdminister an antidote, when possible – for example, naloxone hydrochloride (brand names Prenoxad®, Nyxoid®, Narcan®) is a drug that can reverse opioid overdose..",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
     "title": "Smoke Inhalation",
-    "details": "Basic first aid steps for smoke inhalation include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "details": "Basic treatment for smoke inhalation focuses on providing supplemental oxygen, \nmanaging airway obstruction, and addressing potential systemic toxicities like carbon monoxide or cyanide poisoning. \nImmediate removal from the source of smoke is crucial, followed by assessment and support of the patient's respiratory status. .",
     "remarkes": "Always consult a doctor for serious cases"
   },
   {
