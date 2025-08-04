@@ -503,5 +503,26 @@
   "title": "Bee Sting",
   "details": "quickly remove the stinger (if present) by scraping it out with a fingernail or credit card, wash the area with soap and water, and apply a cold compress to reduce swelling and pain. If the person is allergic, seek immediate medical attention. ",
   "remarkes": "Always consult a doctor for serious cases"
+},
+{
+  "title": "Filaria",
+  "details": "Filaria is caused by parasitic worms transmitted by mosquito bites. \nSymptoms include swelling of limbs or genitals. Maintain good hygiene and avoid mosquito exposure. \nSeek medical evaluation for diagnosis and treatment.",
+  "remarkes": "Always consult a doctor for diagnosis and long-term treatment"
+},
+{
+  "title": "Chickenpox",
+  "details": "Chickenpox is a contagious viral infection that causes an itchy skin rash and blisters. \nIsolate the patient to prevent spreading. \nApply calamine lotion and keep nails trimmed to avoid skin damage from scratching.",
+  "remarkes": "Always consult a doctor, especially in adults or severe cases."
+},
+{
+  "title": "Plague",
+  "details": "Plague is a serious bacterial disease often spread by fleas on rodents. \nSymptoms may include fever, chills, and swollen lymph nodes. Immediate medical attention is critical. \nAvoid contact with wild animals and maintain hygiene.",
+  "remarkes": "This is a medical emergency — consult a doctor immediately"
+},
+{
+  "title": "Jaundice",
+  "details": "Jaundice causes yellowing of the skin and eyes due to high bilirubin levels, often from liver problems. \nEnsure rest, hydrate well, and avoid oily or alcoholic foods. \nMonitor symptoms closely.",
+  "remarkes": "Consult a doctor to determine the underlying cause"
 }
+
 ]
