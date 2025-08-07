@@ -1,1787 +1,528 @@
 [
   {
-    "title": {
-      "en": "Snake Bite",
-      "hi": "[HI] Snake Bite",
-      "bn": "[BN] Snake Bite"
-    },
-    "details": {
-      "en": "Quickly and safely distance yourself from the snake. Wrap the bitten limb with a crepe or elastic bandage, starting below the bite and working upwards.\nEnsure it's snug but not too tight (you should be able to slide a finger underneath).",
-      "hi": "[HI] Quickly and safely distance yourself from the snake. Wrap the bitten limb with a crepe or elastic bandage, starting below the bite and working upwards.\nEnsure it's snug but not too tight (you should be able to slide a finger underneath).",
-      "bn": "[BN] Quickly and safely distance yourself from the snake. Wrap the bitten limb with a crepe or elastic bandage, starting below the bite and working upwards.\nEnsure it's snug but not too tight (you should be able to slide a finger underneath)."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Burning",
-      "hi": "[HI] Burning",
-      "bn": "[BN] Burning"
-    },
-    "details": {
-      "en": "Hold the area under cool — not cold — running water for about 10 minutes.\nIf this isn't possible or if the burn is on the face, apply a cool, wet cloth until the pain eases.\nFor a mouth burn from hot food or drink, put a piece of ice in the mouth for a few minutes. Remove rings or other tight items.",
-      "hi": "[HI] Hold the area under cool — not cold — running water for about 10 minutes.\nIf this isn't possible or if the burn is on the face, apply a cool, wet cloth until the pain eases.\nFor a mouth burn from hot food or drink, put a piece of ice in the mouth for a few minutes. Remove rings or other tight items.",
-      "bn": "[BN] Hold the area under cool — not cold — running water for about 10 minutes.\nIf this isn't possible or if the burn is on the face, apply a cool, wet cloth until the pain eases.\nFor a mouth burn from hot food or drink, put a piece of ice in the mouth for a few minutes. Remove rings or other tight items."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Head Injury",
-      "hi": "[HI] Head Injury",
-      "bn": "[BN] Head Injury"
-    },
-    "details": {
-      "en": "In the initial stage of a head injury, the most crucial first aid steps are to ensure the person's airway, breathing, and circulation (ABCs),\nstabilize the neck, and control any bleeding. After checking ABCs, if there are no signs of breathing or circulation, begin CPR.\nIf there are signs of breathing and circulation, stabilize the head and neck to prevent further injury. ",
-      "hi": "[HI] In the initial stage of a head injury, the most crucial first aid steps are to ensure the person's airway, breathing, and circulation (ABCs),\nstabilize the neck, and control any bleeding. After checking ABCs, if there are no signs of breathing or circulation, begin CPR.\nIf there are signs of breathing and circulation, stabilize the head and neck to prevent further injury. ",
-      "bn": "[BN] In the initial stage of a head injury, the most crucial first aid steps are to ensure the person's airway, breathing, and circulation (ABCs),\nstabilize the neck, and control any bleeding. After checking ABCs, if there are no signs of breathing or circulation, begin CPR.\nIf there are signs of breathing and circulation, stabilize the head and neck to prevent further injury. "
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Stomach Pain",
-      "hi": "[HI] Stomach Pain",
-      "bn": "[BN] Stomach Pain"
-    },
-    "details": {
-      "en": "For initial first aid for stomach pain, focus on staying hydrated by sipping clear fluids like water and avoiding solid foods for a few hours. If vomiting is present, wait six hours before introducing small amounts of bland foods like rice or applesauce, according to MedlinePlus.\nApplying a warm compress or heating pad to the abdomen can also help ease discomfort. ",
-      "hi": "[HI] For initial first aid for stomach pain, focus on staying hydrated by sipping clear fluids like water and avoiding solid foods for a few hours. If vomiting is present, wait six hours before introducing small amounts of bland foods like rice or applesauce, according to MedlinePlus.\nApplying a warm compress or heating pad to the abdomen can also help ease discomfort. ",
-      "bn": "[BN] For initial first aid for stomach pain, focus on staying hydrated by sipping clear fluids like water and avoiding solid foods for a few hours. If vomiting is present, wait six hours before introducing small amounts of bland foods like rice or applesauce, according to MedlinePlus.\nApplying a warm compress or heating pad to the abdomen can also help ease discomfort. "
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Back Pain",
-      "hi": "[HI] Back Pain",
-      "bn": "[BN] Back Pain"
-    },
-    "details": {
-      "en": "In the initial stage of back pain, the primary goal is to reduce pain and inflammation. Rest, ice or heat application, and over-the-counter pain relievers can be helpful.\nGradually resuming normal activities is encouraged, as prolonged bed rest can worsen symptoms. ",
-      "hi": "[HI] In the initial stage of back pain, the primary goal is to reduce pain and inflammation. Rest, ice or heat application, and over-the-counter pain relievers can be helpful.\nGradually resuming normal activities is encouraged, as prolonged bed rest can worsen symptoms. ",
-      "bn": "[BN] In the initial stage of back pain, the primary goal is to reduce pain and inflammation. Rest, ice or heat application, and over-the-counter pain relievers can be helpful.\nGradually resuming normal activities is encouraged, as prolonged bed rest can worsen symptoms. "
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Foot Pain",
-      "hi": "[HI] Foot Pain",
-      "bn": "[BN] Foot Pain"
-    },
-    "details": {
-      "en": "For initial first aid for foot pain, the RICE method is recommended: Rest, Ice, Compression, and Elevation. Rest the foot, apply ice for 15-20 minutes at a time, wrap with a bandage for compression, and keep it elevated above your heart.\nOver-the-counter pain relievers can also help manage pain. ",
-      "hi": "[HI] For initial first aid for foot pain, the RICE method is recommended: Rest, Ice, Compression, and Elevation. Rest the foot, apply ice for 15-20 minutes at a time, wrap with a bandage for compression, and keep it elevated above your heart.\nOver-the-counter pain relievers can also help manage pain. ",
-      "bn": "[BN] For initial first aid for foot pain, the RICE method is recommended: Rest, Ice, Compression, and Elevation. Rest the foot, apply ice for 15-20 minutes at a time, wrap with a bandage for compression, and keep it elevated above your heart.\nOver-the-counter pain relievers can also help manage pain. "
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
+    "title": "Snake Bite",
+    "details": "Quickly and safely distance yourself from the snake. Wrap the bitten limb with a crepe or elastic bandage, starting below the bite and working upwards.\nEnsure it's snug but not too tight (you should be able to slide a finger underneath).",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Burning",
+    "details": "Hold the area under cool — not cold — running water for about 10 minutes.\nIf this isn't possible or if the burn is on the face, apply a cool, wet cloth until the pain eases.\nFor a mouth burn from hot food or drink, put a piece of ice in the mouth for a few minutes. Remove rings or other tight items.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Head Injury",
+    "details": "In the initial stage of a head injury, the most crucial first aid steps are to ensure the person's airway, breathing, and circulation (ABCs),\nstabilize the neck, and control any bleeding. After checking ABCs, if there are no signs of breathing or circulation, begin CPR.\nIf there are signs of breathing and circulation, stabilize the head and neck to prevent further injury. ",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Stomach Pain",
+    "details": "For initial first aid for stomach pain, focus on staying hydrated by sipping clear fluids like water and avoiding solid foods for a few hours. If vomiting is present, wait six hours before introducing small amounts of bland foods like rice or applesauce, according to MedlinePlus.\nApplying a warm compress or heating pad to the abdomen can also help ease discomfort. ",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Back Pain",
+    "details": "In the initial stage of back pain, the primary goal is to reduce pain and inflammation. Rest, ice or heat application, and over-the-counter pain relievers can be helpful.\nGradually resuming normal activities is encouraged, as prolonged bed rest can worsen symptoms. ",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Foot Pain",
+    "details": "For initial first aid for foot pain, the RICE method is recommended: Rest, Ice, Compression, and Elevation. Rest the foot, apply ice for 15-20 minutes at a time, wrap with a bandage for compression, and keep it elevated above your heart.\nOver-the-counter pain relievers can also help manage pain. ",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Leg Broken",
+    "details": "In the initial stage of first aid for a suspected broken leg, focus on controlling bleeding (if any), immobilizing the limb, managing pain, and watching for signs of shock.\nDo not attempt to straighten the bone or push a bone that is sticking out back in. Seek professional medical help immediately. ",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Hand Broken",
+    "details": "For a suspected broken hand, the initial first aid steps involve controlling bleeding (if any), supporting the injured area to prevent further movement, and applying ice to reduce swelling and pain.\nIt's crucial to seek professional medical help immediately for proper diagnosis and treatment. ",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Finger Broken",
+    "details": "For a suspected broken finger, the initial first aid steps involve immobilizing the finger, controlling bleeding (if any), and applying ice to reduce swelling and pain.\nIt's crucial to avoid moving the finger and to seek medical attention promptly. ",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Cut",
+    "details": "The first step in treating a minor cut or scrape is to wash your hands thoroughly with soap and water to prevent infection.\nThen, stop the bleeding by applying direct pressure to the wound with a clean cloth or bandage for a few minutes. \nClean the wound gently with cool running water and mild soap, avoiding getting soap directly into the cut. \nRemove any debris with tweezers cleaned with alcohol, if necessary.\nFinally, cover the wound with a sterile bandage to keep it clean and prevent infection.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Vomiting",
+    "details": "In the initial stage of first aid for vomiting, the priority is to ensure the person's comfort and prevent dehydration. \nOffer small sips of clear liquids like water or an oral rehydration solution (ORS) to replace lost fluids, and encourage rest. \nAvoid giving solid foods or sugary drinks initially, as they can worsen nausea and vomiting. ",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Car Accident",
+    "details": "In the initial stage of first aid for a car accident, the priorities are ensuring safety, calling for help, assessing the situation, and managing life-threatening injuries. \nThis includes checking for responsiveness, airway, breathing, and circulation (ABCs) and addressing any immediate threats like severe bleeding. ",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Bike Accident",
+    "details": "In the initial stage of a bike accident, prioritize safety, assess the situation, and call for help. Check for injuries, stop any bleeding, and keep the injured person warm and calm. If conscious, reassure them and encourage them to stay still. \nIf unconscious, check for breathing and pulse, and begin CPR if trained, after calling emergency services. ",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Dog Bite",
+    "details": "In the initial stage of a dog bite, the first priority is to stop any bleeding by applying pressure to the wound with a clean cloth. Then, wash the wound thoroughly with soap and water for several minutes to remove bacteria. Next, apply an antibiotic ointment and cover the area with a sterile bandage. Seek medical attention if the bite is severe, \nif there are signs of infection, or if you haven't had a tetanus shot in the last five years.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Cat Bite",
+    "details": "The initial stage of first aid for a cat bite involves thoroughly cleaning the wound and controlling any bleeding. Washing the wound with soap and water for at least 5 minutes is crucial to remove bacteria. Applying direct pressure with a clean bandage or towel can help stop bleeding. Seek professional medical attention, \nespecially for deep bites or if the cat is unvaccinated, to assess the need for further treatment like antibiotics or a tetanus booster.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Nose Injury",
+    "details": "For initial first aid for a nose injury, the primary focus is on stopping any bleeding, reducing pain and swelling, and preventing further injury. \nThis involves sitting upright, leaning forward slightly, applying pressure to the nose, and using cold compresses. \nIf the bleeding is severe, doesn't stop, or the injury is significant (deformity, difficulty breathing), seek immediate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Fever",
+    "details": "In the initial stage of a fever, the main focus is on comfort and hydration while monitoring for any concerning symptoms. \nEncourage rest, offer plenty of fluids like water or diluted juice, and dress the person in light clothing. If shivering occurs, use a light blanket until it subsides. \nAvoid aspirin for children and teenagers, and consult a doctor for infants under 6 months.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Choking",
+    "details": "If someone is choking, encourage them to cough. \nBend them forwards and give up to 5 back blows to try and dislodge the blockage. \nIf they are still choking, give up to 5 abdominal thrusts: hold around the waist and pull inwards and upwards above their belly button..",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Sprain",
+    "details": "The initial first aid for a sprain involves the RICE method: Rest, Ice, Compression, and Elevation. \nThis helps to reduce pain and swelling and promote healing.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Dehydration",
+    "details": "In the initial stage of dehydration, the primary goal is to rehydrate the body by replenishing lost fluids and electrolytes. \nFor mild cases, this can be achieved by drinking water and electrolyte-rich drinks like sports drinks. If dehydration is more severe, especially in infants or individuals experiencing vomiting or diarrhea,\noral rehydration solutions or even intravenous fluids may be necessary.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Poisoning",
+    "details": "First steps If the person inhaled poison, get him or her fresh air right away. If the person has poison on the skin, take off any clothing the poison touched. Rinse skin with running water for 15 to 20 minutes. \nIf the person has poison in the eyes, rinse eyes with running water for 15 to 20 minutes.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Asthma Attack",
+    "details": "In the initial stage of an asthma attack, the most important first aid steps are to stay calm, help the person sit upright, and assist them with their reliever inhaler (usually blue or grey). If they have a spacer, use it with the inhaler. \nEnsure they take slow, deep breaths after each puff, and wait a few minutes to assess if symptoms improve. \nIf there's no improvement or the attack worsens, seek immediate medical help.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Toothache",
+    "details": "For initial first aid for a toothache attack, the focus is on temporary pain relief and preventing further irritation. \nRinsing with warm salt water, flossing to remove trapped food, and applying a cold compress are good first steps. \nOver-the-counter pain relievers can also help, but it's crucial to consult a dentist for proper diagnosis and treatment of the underlying cause.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Eye Injury",
+    "details": "In the initial stage of an eye injury attack, prioritize safety by preventing further harm and seeking professional medical help. \nAvoid rubbing the eye, and flush it with water for chemical burns. For foreign objects, try to dislodge them by blinking or flushing with water, but do not attempt to remove deeply embedded objects. \nProtect the injured eye with a clean, moist cloth and seek immediate medical attention for any serious injury.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Fracture",
+    "details": "In the initial stage of first aid for a suspected fracture, focus on immobilizing the injured area, controlling bleeding if present, and providing comfort and support. \nAvoid moving the injured person unless absolutely necessary and if there is a spinal injury, maintain the spine in a neutral position.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Drowning",
+    "details": "The initial stage of drowning first aid focuses on ensuring the safety of both the victim and the rescuer, then assessing the victim's breathing and providing rescue breaths if needed, followed by CPR if there's no breathing. \nIt's crucial to act quickly and efficiently while prioritizing safety.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Electric Shock",
+    "details": "In the initial stage of first aid for an electrical shock, the most crucial step is to ensure safety by immediately disconnecting the power source. \nDo not touch the person while they are still in contact with the electrical current. \nOnce the power is off, assess the person's consciousness and breathing, and be prepared to administer CPR if needed.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Sunburn",
+    "details": "The first steps in treating a sunburn involve cooling the skin, moisturizing, and pain relief. \nImmediately move out of the sun and gently cool the affected area with cool (not cold) water, either by showering or applying a cool, damp cloth. \nApply a moisturizer,preferably with aloe vera or soy, and consider taking over-the-counter pain relievers like ibuprofen or acetaminophen to reduce pain and inflammation.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Hypothermia",
+    "details": "In the initial stage of hypothermia, the most crucial first aid steps are to move the person to a warmer place, remove any wet clothing, and dry them off. \nThen, wrap them in warm blankets or clothing, focusing on covering the head and trunk. If available, use warm compresses on the neck, chest, and groin, avoiding the limbs. \nOffer warm, non-alcoholic, non-caffeinated beverages if they are alert and able to swallow.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Heat Stroke",
+    "details": "In the initial stage of heat stroke first aid, the primary goal is to rapidly cool the person down while waiting for emergency medical help. \nMove the person to a cool place, remove excess clothing, and use cooling methods like applying cool, wet cloths, or immersing them in cool water (if safe and possible). \nMonitor their condition and call emergency services immediately if they show signs of shock or lose consciousness.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Seizure",
+    "details": "The initial steps for providing first aid during a seizure are to ensure the person's safety, stay with them, and time the seizure. \nRemove any nearby hazards, cushion their head, and gently roll them onto their side if they're not already in that position. \nDo not restrain the person, put anything in their mouth, or attempt mouth-to-mouth resuscitation.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Ear Bleeding",
+    "details": "For initial first aid for ear bleeding, the main focus is on stopping the bleeding, protecting the ear, and managing pain. \nFirst, apply gentle pressure to the area with a clean cloth or sterile gauze to control the bleeding. \nAvoid putting anything into the ear canal and do not try to clean the ear extensively. \nApply a cold compress (wrapped in a cloth) to reduce pain and swelling. \nIf the bleeding is severe, or if there are signs of infection (redness, swelling, discharge),seek medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Nail Injury",
+    "details": "For initial first aid of a nail injury, the primary goal is to clean the wound, manage pain and swelling, and prevent infection. This includes gently washing the area, trimming any loose nail fragments, and applying a bandage. \nIf the injury is severe (deep cut, nail bed damage, or excessive bleeding), seek immediate medical attention according to Nationwide Children's Hospital and according to Medical News Today.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Blisters",
+    "details": "For a blister in its initial stage, the primary goal is to protect it from further irritation and infection. \nSmall, unbroken blisters should ideally be left alone to heal naturally. \nIf the blister is large and painful, or if it has broken open, gentle cleaning and covering with a bandage is recommended.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Allergic Reaction",
+    "details": "In the initial stage of an allergic reaction, focus on calming the individual, identifying the allergen if possible, and monitoring for worsening symptoms. \nFor mild reactions, over-the-counter antihistamines and cool compresses can help. \nIf symptoms include difficulty breathing, swelling, or signs of shock, seek immediate medical attention and use an epinephrine autoinjector if available.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Heart Attack",
+    "details": "If you're trained in CPR and confident in your ability, start with 30 chest compressions before giving two rescue breaths. \nUse an automated external defibrillator (AED) if one is available and the person is unconscious. \nThe device delivers shocks to reset the heart rhythm..",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Stroke",
+    "details": "In the initial stage of stroke first aid, the priority is to recognize the signs, call emergency services immediately, and ensure the person's safety and comfort while waiting for professional help. \nDo not attempt to diagnose the stroke yourself or give any medication or food.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Diarrhea",
+    "details": "In the initial stage of diarrhea, the primary goal is to prevent dehydration by replacing lost fluids and electrolytes. \nRehydration is crucial, especially for vulnerable individuals like children and the elderly. Oral rehydration solutions (ORS) are effective for this purpose. \nAdditionally, gentle dietary adjustments, such as consuming bland, low-fiber foods, can help manage symptoms.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Constipation",
+    "details": "In the initial stage of constipation, first aid focuses on dietary and lifestyle adjustments to encourage bowel movements. \nDrinking more water, increasing fiber intake, and engaging in regular physical activity are key steps. \nOver-the-counter options like stool softeners or osmotic laxatives can also be considered under the guidance of a pharmacist.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Menstrual Pain",
+    "details": "For initial first aid of menstrual pain (also known as dysmenorrhea), focus on simple, readily available methods to ease discomfort and reduce pain. \nThese include applying heat to the lower abdomen, practicing relaxation techniques, and considering over-the-counter pain relievers.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Panic Attack",
+    "details": "In the initial stage of a panic attack, the most crucial first aid is to stay calm, reassure the person, and help them focus on their breathing. \nRemove any potential triggers if possible and guide them to a quiet space. \nSpeak in short, simple sentences and encourage slow, deep breaths. Remember, panic attacks are temporary and the person is not in danger.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Insect Sting",
+    "details": "For initial first aid of an insect sting, first ensure safety by moving away from the area and removing any stingers if present. \nClean the sting site with soap and water. Reduce pain and swelling with a cold pack, and consider using calamine lotion or baking soda paste for itching relief.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Wound Infection",
+    "details": "In the initial stage of wound infection first aid, the primary goal is to prevent further contamination and promote healing. \nThis involves washing your hands thoroughly, stopping any bleeding, cleaning the wound, applying an antibiotic ointment (if appropriate), and covering the wound with a bandage. \nIt's crucial to monitor the wound for signs of infection and seek medical attention if needed.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Scalding",
+    "details": "The initial stage of first aid for a scalding burn focuses on immediately cooling the burn and protecting it from infection. \nThis involves running cool (not cold) water over the burn for 10-20 minutes, covering it loosely with a sterile bandage, and managing pain. ",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Chest Pain",
+    "details": "Start CPR if the person doesn't have a pulse or isn't breathing. If you're untrained in CPR, do hands-only CPR. \nThat means push hard and fast on the person's chest about 100 to 120 times a minute. \nIf you're trained in CPR and confident in your ability, start with 30 chest compressions before giving two rescue breaths.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Nosebleed",
+    "details": "For initial first aid in a nosebleed, sit upright and lean slightly forward to prevent swallowing blood, pinch the soft part of the nose firmly for at least 10 minutes, and breathe through the mouth. \nApplying a cold compress to the bridge of the nose or the back of the neck can also help constrict blood vessels.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Jaw Injury",
+    "details": "In the initial stage of a jaw injury, the priority is to stabilize the jaw, manage pain, and prevent further damage. \nGently support the jaw with your hands, and if possible, use a bandage or cloth to keep it stable.Applying a cold compress can help reduce swelling and pain. \nSeek immediate medical attention, even if initial measures provide some relief.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Scorpion Sting",
+    "details": "For a scorpion sting, the initial first aid steps include cleaning the wound, applying a cool compress, and managing pain with over-the-counter medication if needed. \nIt's also important to keep the affected limb still and elevated, and to remove any tight clothing or jewelry from the area. \nSeeking medical advice is crucial, especially if symptoms worsen or if the scorpion is known to be venomous.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Lice Infestation",
+    "details": "In the initial stages of a lice infestation, the most important first aid steps involve identifying the infestation, using appropriate over-the-counter treatments, and taking preventative measures to stop the spread. \nIf these steps are not successful, consulting a healthcare professional is recommended.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Foreign Object in Eye",
+    "details": "First Aid for Foreign Objects in Eye: 13 Effective Steps ...For a foreign object in the eye, initial first aid involves gently examining the eye in a well-lit area,flushing it with water if possible, and avoiding rubbing or attempting to remove deeply embedded objects. \nIf the object is not easily removed or if there's pain, redness, or vision changes, seek immediate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
   {
-    "title": {
-      "en": "Leg Broken",
-      "hi": "[HI] Leg Broken",
-      "bn": "[BN] Leg Broken"
-    },
-    "details": {
-      "en": "In the initial stage of first aid for a suspected broken leg, focus on controlling bleeding (if any), immobilizing the limb, managing pain, and watching for signs of shock.\nDo not attempt to straighten the bone or push a bone that is sticking out back in. Seek professional medical help immediately. ",
-      "hi": "[HI] In the initial stage of first aid for a suspected broken leg, focus on controlling bleeding (if any), immobilizing the limb, managing pain, and watching for signs of shock.\nDo not attempt to straighten the bone or push a bone that is sticking out back in. Seek professional medical help immediately. ",
-      "bn": "[BN] In the initial stage of first aid for a suspected broken leg, focus on controlling bleeding (if any), immobilizing the limb, managing pain, and watching for signs of shock.\nDo not attempt to straighten the bone or push a bone that is sticking out back in. Seek professional medical help immediately. "
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Hand Broken",
-      "hi": "[HI] Hand Broken",
-      "bn": "[BN] Hand Broken"
-    },
-    "details": {
-      "en": "For a suspected broken hand, the initial first aid steps involve controlling bleeding (if any), supporting the injured area to prevent further movement, and applying ice to reduce swelling and pain.\nIt's crucial to seek professional medical help immediately for proper diagnosis and treatment. ",
-      "hi": "[HI] For a suspected broken hand, the initial first aid steps involve controlling bleeding (if any), supporting the injured area to prevent further movement, and applying ice to reduce swelling and pain.\nIt's crucial to seek professional medical help immediately for proper diagnosis and treatment. ",
-      "bn": "[BN] For a suspected broken hand, the initial first aid steps involve controlling bleeding (if any), supporting the injured area to prevent further movement, and applying ice to reduce swelling and pain.\nIt's crucial to seek professional medical help immediately for proper diagnosis and treatment. "
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Finger Broken",
-      "hi": "[HI] Finger Broken",
-      "bn": "[BN] Finger Broken"
-    },
-    "details": {
-      "en": "For a suspected broken finger, the initial first aid steps involve immobilizing the finger, controlling bleeding (if any), and applying ice to reduce swelling and pain.\nIt's crucial to avoid moving the finger and to seek medical attention promptly. ",
-      "hi": "[HI] For a suspected broken finger, the initial first aid steps involve immobilizing the finger, controlling bleeding (if any), and applying ice to reduce swelling and pain.\nIt's crucial to avoid moving the finger and to seek medical attention promptly. ",
-      "bn": "[BN] For a suspected broken finger, the initial first aid steps involve immobilizing the finger, controlling bleeding (if any), and applying ice to reduce swelling and pain.\nIt's crucial to avoid moving the finger and to seek medical attention promptly. "
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Cut",
-      "hi": "[HI] Cut",
-      "bn": "[BN] Cut"
-    },
-    "details": {
-      "en": "The first step in treating a minor cut or scrape is to wash your hands thoroughly with soap and water to prevent infection.\nThen, stop the bleeding by applying direct pressure to the wound with a clean cloth or bandage for a few minutes. \nClean the wound gently with cool running water and mild soap, avoiding getting soap directly into the cut. \nRemove any debris with tweezers cleaned with alcohol, if necessary.\nFinally, cover the wound with a sterile bandage to keep it clean and prevent infection.",
-      "hi": "[HI] The first step in treating a minor cut or scrape is to wash your hands thoroughly with soap and water to prevent infection.\nThen, stop the bleeding by applying direct pressure to the wound with a clean cloth or bandage for a few minutes. \nClean the wound gently with cool running water and mild soap, avoiding getting soap directly into the cut. \nRemove any debris with tweezers cleaned with alcohol, if necessary.\nFinally, cover the wound with a sterile bandage to keep it clean and prevent infection.",
-      "bn": "[BN] The first step in treating a minor cut or scrape is to wash your hands thoroughly with soap and water to prevent infection.\nThen, stop the bleeding by applying direct pressure to the wound with a clean cloth or bandage for a few minutes. \nClean the wound gently with cool running water and mild soap, avoiding getting soap directly into the cut. \nRemove any debris with tweezers cleaned with alcohol, if necessary.\nFinally, cover the wound with a sterile bandage to keep it clean and prevent infection."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Vomiting",
-      "hi": "[HI] Vomiting",
-      "bn": "[BN] Vomiting"
-    },
-    "details": {
-      "en": "In the initial stage of first aid for vomiting, the priority is to ensure the person's comfort and prevent dehydration. \nOffer small sips of clear liquids like water or an oral rehydration solution (ORS) to replace lost fluids, and encourage rest. \nAvoid giving solid foods or sugary drinks initially, as they can worsen nausea and vomiting. ",
-      "hi": "[HI] In the initial stage of first aid for vomiting, the priority is to ensure the person's comfort and prevent dehydration. \nOffer small sips of clear liquids like water or an oral rehydration solution (ORS) to replace lost fluids, and encourage rest. \nAvoid giving solid foods or sugary drinks initially, as they can worsen nausea and vomiting. ",
-      "bn": "[BN] In the initial stage of first aid for vomiting, the priority is to ensure the person's comfort and prevent dehydration. \nOffer small sips of clear liquids like water or an oral rehydration solution (ORS) to replace lost fluids, and encourage rest. \nAvoid giving solid foods or sugary drinks initially, as they can worsen nausea and vomiting. "
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Car Accident",
-      "hi": "[HI] Car Accident",
-      "bn": "[BN] Car Accident"
-    },
-    "details": {
-      "en": "In the initial stage of first aid for a car accident, the priorities are ensuring safety, calling for help, assessing the situation, and managing life-threatening injuries. \nThis includes checking for responsiveness, airway, breathing, and circulation (ABCs) and addressing any immediate threats like severe bleeding. ",
-      "hi": "[HI] In the initial stage of first aid for a car accident, the priorities are ensuring safety, calling for help, assessing the situation, and managing life-threatening injuries. \nThis includes checking for responsiveness, airway, breathing, and circulation (ABCs) and addressing any immediate threats like severe bleeding. ",
-      "bn": "[BN] In the initial stage of first aid for a car accident, the priorities are ensuring safety, calling for help, assessing the situation, and managing life-threatening injuries. \nThis includes checking for responsiveness, airway, breathing, and circulation (ABCs) and addressing any immediate threats like severe bleeding. "
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Bike Accident",
-      "hi": "[HI] Bike Accident",
-      "bn": "[BN] Bike Accident"
-    },
-    "details": {
-      "en": "In the initial stage of a bike accident, prioritize safety, assess the situation, and call for help. Check for injuries, stop any bleeding, and keep the injured person warm and calm. If conscious, reassure them and encourage them to stay still. \nIf unconscious, check for breathing and pulse, and begin CPR if trained, after calling emergency services. ",
-      "hi": "[HI] In the initial stage of a bike accident, prioritize safety, assess the situation, and call for help. Check for injuries, stop any bleeding, and keep the injured person warm and calm. If conscious, reassure them and encourage them to stay still. \nIf unconscious, check for breathing and pulse, and begin CPR if trained, after calling emergency services. ",
-      "bn": "[BN] In the initial stage of a bike accident, prioritize safety, assess the situation, and call for help. Check for injuries, stop any bleeding, and keep the injured person warm and calm. If conscious, reassure them and encourage them to stay still. \nIf unconscious, check for breathing and pulse, and begin CPR if trained, after calling emergency services. "
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Dog Bite",
-      "hi": "[HI] Dog Bite",
-      "bn": "[BN] Dog Bite"
-    },
-    "details": {
-      "en": "In the initial stage of a dog bite, the first priority is to stop any bleeding by applying pressure to the wound with a clean cloth. Then, wash the wound thoroughly with soap and water for several minutes to remove bacteria. Next, apply an antibiotic ointment and cover the area with a sterile bandage. Seek medical attention if the bite is severe, \nif there are signs of infection, or if you haven't had a tetanus shot in the last five years.",
-      "hi": "[HI] In the initial stage of a dog bite, the first priority is to stop any bleeding by applying pressure to the wound with a clean cloth. Then, wash the wound thoroughly with soap and water for several minutes to remove bacteria. Next, apply an antibiotic ointment and cover the area with a sterile bandage. Seek medical attention if the bite is severe, \nif there are signs of infection, or if you haven't had a tetanus shot in the last five years.",
-      "bn": "[BN] In the initial stage of a dog bite, the first priority is to stop any bleeding by applying pressure to the wound with a clean cloth. Then, wash the wound thoroughly with soap and water for several minutes to remove bacteria. Next, apply an antibiotic ointment and cover the area with a sterile bandage. Seek medical attention if the bite is severe, \nif there are signs of infection, or if you haven't had a tetanus shot in the last five years."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Cat Bite",
-      "hi": "[HI] Cat Bite",
-      "bn": "[BN] Cat Bite"
-    },
-    "details": {
-      "en": "The initial stage of first aid for a cat bite involves thoroughly cleaning the wound and controlling any bleeding. Washing the wound with soap and water for at least 5 minutes is crucial to remove bacteria. Applying direct pressure with a clean bandage or towel can help stop bleeding. Seek professional medical attention, \nespecially for deep bites or if the cat is unvaccinated, to assess the need for further treatment like antibiotics or a tetanus booster.",
-      "hi": "[HI] The initial stage of first aid for a cat bite involves thoroughly cleaning the wound and controlling any bleeding. Washing the wound with soap and water for at least 5 minutes is crucial to remove bacteria. Applying direct pressure with a clean bandage or towel can help stop bleeding. Seek professional medical attention, \nespecially for deep bites or if the cat is unvaccinated, to assess the need for further treatment like antibiotics or a tetanus booster.",
-      "bn": "[BN] The initial stage of first aid for a cat bite involves thoroughly cleaning the wound and controlling any bleeding. Washing the wound with soap and water for at least 5 minutes is crucial to remove bacteria. Applying direct pressure with a clean bandage or towel can help stop bleeding. Seek professional medical attention, \nespecially for deep bites or if the cat is unvaccinated, to assess the need for further treatment like antibiotics or a tetanus booster."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Nose Injury",
-      "hi": "[HI] Nose Injury",
-      "bn": "[BN] Nose Injury"
-    },
-    "details": {
-      "en": "For initial first aid for a nose injury, the primary focus is on stopping any bleeding, reducing pain and swelling, and preventing further injury. \nThis involves sitting upright, leaning forward slightly, applying pressure to the nose, and using cold compresses. \nIf the bleeding is severe, doesn't stop, or the injury is significant (deformity, difficulty breathing), seek immediate medical attention.",
-      "hi": "[HI] For initial first aid for a nose injury, the primary focus is on stopping any bleeding, reducing pain and swelling, and preventing further injury. \nThis involves sitting upright, leaning forward slightly, applying pressure to the nose, and using cold compresses. \nIf the bleeding is severe, doesn't stop, or the injury is significant (deformity, difficulty breathing), seek immediate medical attention.",
-      "bn": "[BN] For initial first aid for a nose injury, the primary focus is on stopping any bleeding, reducing pain and swelling, and preventing further injury. \nThis involves sitting upright, leaning forward slightly, applying pressure to the nose, and using cold compresses. \nIf the bleeding is severe, doesn't stop, or the injury is significant (deformity, difficulty breathing), seek immediate medical attention."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Fever",
-      "hi": "[HI] Fever",
-      "bn": "[BN] Fever"
-    },
-    "details": {
-      "en": "In the initial stage of a fever, the main focus is on comfort and hydration while monitoring for any concerning symptoms. \nEncourage rest, offer plenty of fluids like water or diluted juice, and dress the person in light clothing. If shivering occurs, use a light blanket until it subsides. \nAvoid aspirin for children and teenagers, and consult a doctor for infants under 6 months.",
-      "hi": "[HI] In the initial stage of a fever, the main focus is on comfort and hydration while monitoring for any concerning symptoms. \nEncourage rest, offer plenty of fluids like water or diluted juice, and dress the person in light clothing. If shivering occurs, use a light blanket until it subsides. \nAvoid aspirin for children and teenagers, and consult a doctor for infants under 6 months.",
-      "bn": "[BN] In the initial stage of a fever, the main focus is on comfort and hydration while monitoring for any concerning symptoms. \nEncourage rest, offer plenty of fluids like water or diluted juice, and dress the person in light clothing. If shivering occurs, use a light blanket until it subsides. \nAvoid aspirin for children and teenagers, and consult a doctor for infants under 6 months."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Choking",
-      "hi": "[HI] Choking",
-      "bn": "[BN] Choking"
-    },
-    "details": {
-      "en": "If someone is choking, encourage them to cough. \nBend them forwards and give up to 5 back blows to try and dislodge the blockage. \nIf they are still choking, give up to 5 abdominal thrusts: hold around the waist and pull inwards and upwards above their belly button..",
-      "hi": "[HI] If someone is choking, encourage them to cough. \nBend them forwards and give up to 5 back blows to try and dislodge the blockage. \nIf they are still choking, give up to 5 abdominal thrusts: hold around the waist and pull inwards and upwards above their belly button..",
-      "bn": "[BN] If someone is choking, encourage them to cough. \nBend them forwards and give up to 5 back blows to try and dislodge the blockage. \nIf they are still choking, give up to 5 abdominal thrusts: hold around the waist and pull inwards and upwards above their belly button.."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Sprain",
-      "hi": "[HI] Sprain",
-      "bn": "[BN] Sprain"
-    },
-    "details": {
-      "en": "The initial first aid for a sprain involves the RICE method: Rest, Ice, Compression, and Elevation. \nThis helps to reduce pain and swelling and promote healing.",
-      "hi": "[HI] The initial first aid for a sprain involves the RICE method: Rest, Ice, Compression, and Elevation. \nThis helps to reduce pain and swelling and promote healing.",
-      "bn": "[BN] The initial first aid for a sprain involves the RICE method: Rest, Ice, Compression, and Elevation. \nThis helps to reduce pain and swelling and promote healing."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Dehydration",
-      "hi": "[HI] Dehydration",
-      "bn": "[BN] Dehydration"
-    },
-    "details": {
-      "en": "In the initial stage of dehydration, the primary goal is to rehydrate the body by replenishing lost fluids and electrolytes. \nFor mild cases, this can be achieved by drinking water and electrolyte-rich drinks like sports drinks. If dehydration is more severe, especially in infants or individuals experiencing vomiting or diarrhea,\noral rehydration solutions or even intravenous fluids may be necessary.",
-      "hi": "[HI] In the initial stage of dehydration, the primary goal is to rehydrate the body by replenishing lost fluids and electrolytes. \nFor mild cases, this can be achieved by drinking water and electrolyte-rich drinks like sports drinks. If dehydration is more severe, especially in infants or individuals experiencing vomiting or diarrhea,\noral rehydration solutions or even intravenous fluids may be necessary.",
-      "bn": "[BN] In the initial stage of dehydration, the primary goal is to rehydrate the body by replenishing lost fluids and electrolytes. \nFor mild cases, this can be achieved by drinking water and electrolyte-rich drinks like sports drinks. If dehydration is more severe, especially in infants or individuals experiencing vomiting or diarrhea,\noral rehydration solutions or even intravenous fluids may be necessary."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Poisoning",
-      "hi": "[HI] Poisoning",
-      "bn": "[BN] Poisoning"
-    },
-    "details": {
-      "en": "First steps If the person inhaled poison, get him or her fresh air right away. If the person has poison on the skin, take off any clothing the poison touched. Rinse skin with running water for 15 to 20 minutes. \nIf the person has poison in the eyes, rinse eyes with running water for 15 to 20 minutes.",
-      "hi": "[HI] First steps If the person inhaled poison, get him or her fresh air right away. If the person has poison on the skin, take off any clothing the poison touched. Rinse skin with running water for 15 to 20 minutes. \nIf the person has poison in the eyes, rinse eyes with running water for 15 to 20 minutes.",
-      "bn": "[BN] First steps If the person inhaled poison, get him or her fresh air right away. If the person has poison on the skin, take off any clothing the poison touched. Rinse skin with running water for 15 to 20 minutes. \nIf the person has poison in the eyes, rinse eyes with running water for 15 to 20 minutes."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Asthma Attack",
-      "hi": "[HI] Asthma Attack",
-      "bn": "[BN] Asthma Attack"
-    },
-    "details": {
-      "en": "In the initial stage of an asthma attack, the most important first aid steps are to stay calm, help the person sit upright, and assist them with their reliever inhaler (usually blue or grey). If they have a spacer, use it with the inhaler. \nEnsure they take slow, deep breaths after each puff, and wait a few minutes to assess if symptoms improve. \nIf there's no improvement or the attack worsens, seek immediate medical help.",
-      "hi": "[HI] In the initial stage of an asthma attack, the most important first aid steps are to stay calm, help the person sit upright, and assist them with their reliever inhaler (usually blue or grey). If they have a spacer, use it with the inhaler. \nEnsure they take slow, deep breaths after each puff, and wait a few minutes to assess if symptoms improve. \nIf there's no improvement or the attack worsens, seek immediate medical help.",
-      "bn": "[BN] In the initial stage of an asthma attack, the most important first aid steps are to stay calm, help the person sit upright, and assist them with their reliever inhaler (usually blue or grey). If they have a spacer, use it with the inhaler. \nEnsure they take slow, deep breaths after each puff, and wait a few minutes to assess if symptoms improve. \nIf there's no improvement or the attack worsens, seek immediate medical help."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Toothache",
-      "hi": "[HI] Toothache",
-      "bn": "[BN] Toothache"
-    },
-    "details": {
-      "en": "For initial first aid for a toothache attack, the focus is on temporary pain relief and preventing further irritation. \nRinsing with warm salt water, flossing to remove trapped food, and applying a cold compress are good first steps. \nOver-the-counter pain relievers can also help, but it's crucial to consult a dentist for proper diagnosis and treatment of the underlying cause.",
-      "hi": "[HI] For initial first aid for a toothache attack, the focus is on temporary pain relief and preventing further irritation. \nRinsing with warm salt water, flossing to remove trapped food, and applying a cold compress are good first steps. \nOver-the-counter pain relievers can also help, but it's crucial to consult a dentist for proper diagnosis and treatment of the underlying cause.",
-      "bn": "[BN] For initial first aid for a toothache attack, the focus is on temporary pain relief and preventing further irritation. \nRinsing with warm salt water, flossing to remove trapped food, and applying a cold compress are good first steps. \nOver-the-counter pain relievers can also help, but it's crucial to consult a dentist for proper diagnosis and treatment of the underlying cause."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Eye Injury",
-      "hi": "[HI] Eye Injury",
-      "bn": "[BN] Eye Injury"
-    },
-    "details": {
-      "en": "In the initial stage of an eye injury attack, prioritize safety by preventing further harm and seeking professional medical help. \nAvoid rubbing the eye, and flush it with water for chemical burns. For foreign objects, try to dislodge them by blinking or flushing with water, but do not attempt to remove deeply embedded objects. \nProtect the injured eye with a clean, moist cloth and seek immediate medical attention for any serious injury.",
-      "hi": "[HI] In the initial stage of an eye injury attack, prioritize safety by preventing further harm and seeking professional medical help. \nAvoid rubbing the eye, and flush it with water for chemical burns. For foreign objects, try to dislodge them by blinking or flushing with water, but do not attempt to remove deeply embedded objects. \nProtect the injured eye with a clean, moist cloth and seek immediate medical attention for any serious injury.",
-      "bn": "[BN] In the initial stage of an eye injury attack, prioritize safety by preventing further harm and seeking professional medical help. \nAvoid rubbing the eye, and flush it with water for chemical burns. For foreign objects, try to dislodge them by blinking or flushing with water, but do not attempt to remove deeply embedded objects. \nProtect the injured eye with a clean, moist cloth and seek immediate medical attention for any serious injury."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Fracture",
-      "hi": "[HI] Fracture",
-      "bn": "[BN] Fracture"
-    },
-    "details": {
-      "en": "In the initial stage of first aid for a suspected fracture, focus on immobilizing the injured area, controlling bleeding if present, and providing comfort and support. \nAvoid moving the injured person unless absolutely necessary and if there is a spinal injury, maintain the spine in a neutral position.",
-      "hi": "[HI] In the initial stage of first aid for a suspected fracture, focus on immobilizing the injured area, controlling bleeding if present, and providing comfort and support. \nAvoid moving the injured person unless absolutely necessary and if there is a spinal injury, maintain the spine in a neutral position.",
-      "bn": "[BN] In the initial stage of first aid for a suspected fracture, focus on immobilizing the injured area, controlling bleeding if present, and providing comfort and support. \nAvoid moving the injured person unless absolutely necessary and if there is a spinal injury, maintain the spine in a neutral position."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Drowning",
-      "hi": "[HI] Drowning",
-      "bn": "[BN] Drowning"
-    },
-    "details": {
-      "en": "The initial stage of drowning first aid focuses on ensuring the safety of both the victim and the rescuer, then assessing the victim's breathing and providing rescue breaths if needed, followed by CPR if there's no breathing. \nIt's crucial to act quickly and efficiently while prioritizing safety.",
-      "hi": "[HI] The initial stage of drowning first aid focuses on ensuring the safety of both the victim and the rescuer, then assessing the victim's breathing and providing rescue breaths if needed, followed by CPR if there's no breathing. \nIt's crucial to act quickly and efficiently while prioritizing safety.",
-      "bn": "[BN] The initial stage of drowning first aid focuses on ensuring the safety of both the victim and the rescuer, then assessing the victim's breathing and providing rescue breaths if needed, followed by CPR if there's no breathing. \nIt's crucial to act quickly and efficiently while prioritizing safety."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Electric Shock",
-      "hi": "[HI] Electric Shock",
-      "bn": "[BN] Electric Shock"
-    },
-    "details": {
-      "en": "In the initial stage of first aid for an electrical shock, the most crucial step is to ensure safety by immediately disconnecting the power source. \nDo not touch the person while they are still in contact with the electrical current. \nOnce the power is off, assess the person's consciousness and breathing, and be prepared to administer CPR if needed.",
-      "hi": "[HI] In the initial stage of first aid for an electrical shock, the most crucial step is to ensure safety by immediately disconnecting the power source. \nDo not touch the person while they are still in contact with the electrical current. \nOnce the power is off, assess the person's consciousness and breathing, and be prepared to administer CPR if needed.",
-      "bn": "[BN] In the initial stage of first aid for an electrical shock, the most crucial step is to ensure safety by immediately disconnecting the power source. \nDo not touch the person while they are still in contact with the electrical current. \nOnce the power is off, assess the person's consciousness and breathing, and be prepared to administer CPR if needed."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Sunburn",
-      "hi": "[HI] Sunburn",
-      "bn": "[BN] Sunburn"
-    },
-    "details": {
-      "en": "The first steps in treating a sunburn involve cooling the skin, moisturizing, and pain relief. \nImmediately move out of the sun and gently cool the affected area with cool (not cold) water, either by showering or applying a cool, damp cloth. \nApply a moisturizer,preferably with aloe vera or soy, and consider taking over-the-counter pain relievers like ibuprofen or acetaminophen to reduce pain and inflammation.",
-      "hi": "[HI] The first steps in treating a sunburn involve cooling the skin, moisturizing, and pain relief. \nImmediately move out of the sun and gently cool the affected area with cool (not cold) water, either by showering or applying a cool, damp cloth. \nApply a moisturizer,preferably with aloe vera or soy, and consider taking over-the-counter pain relievers like ibuprofen or acetaminophen to reduce pain and inflammation.",
-      "bn": "[BN] The first steps in treating a sunburn involve cooling the skin, moisturizing, and pain relief. \nImmediately move out of the sun and gently cool the affected area with cool (not cold) water, either by showering or applying a cool, damp cloth. \nApply a moisturizer,preferably with aloe vera or soy, and consider taking over-the-counter pain relievers like ibuprofen or acetaminophen to reduce pain and inflammation."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Hypothermia",
-      "hi": "[HI] Hypothermia",
-      "bn": "[BN] Hypothermia"
-    },
-    "details": {
-      "en": "In the initial stage of hypothermia, the most crucial first aid steps are to move the person to a warmer place, remove any wet clothing, and dry them off. \nThen, wrap them in warm blankets or clothing, focusing on covering the head and trunk. If available, use warm compresses on the neck, chest, and groin, avoiding the limbs. \nOffer warm, non-alcoholic, non-caffeinated beverages if they are alert and able to swallow.",
-      "hi": "[HI] In the initial stage of hypothermia, the most crucial first aid steps are to move the person to a warmer place, remove any wet clothing, and dry them off. \nThen, wrap them in warm blankets or clothing, focusing on covering the head and trunk. If available, use warm compresses on the neck, chest, and groin, avoiding the limbs. \nOffer warm, non-alcoholic, non-caffeinated beverages if they are alert and able to swallow.",
-      "bn": "[BN] In the initial stage of hypothermia, the most crucial first aid steps are to move the person to a warmer place, remove any wet clothing, and dry them off. \nThen, wrap them in warm blankets or clothing, focusing on covering the head and trunk. If available, use warm compresses on the neck, chest, and groin, avoiding the limbs. \nOffer warm, non-alcoholic, non-caffeinated beverages if they are alert and able to swallow."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Heat Stroke",
-      "hi": "[HI] Heat Stroke",
-      "bn": "[BN] Heat Stroke"
-    },
-    "details": {
-      "en": "In the initial stage of heat stroke first aid, the primary goal is to rapidly cool the person down while waiting for emergency medical help. \nMove the person to a cool place, remove excess clothing, and use cooling methods like applying cool, wet cloths, or immersing them in cool water (if safe and possible). \nMonitor their condition and call emergency services immediately if they show signs of shock or lose consciousness.",
-      "hi": "[HI] In the initial stage of heat stroke first aid, the primary goal is to rapidly cool the person down while waiting for emergency medical help. \nMove the person to a cool place, remove excess clothing, and use cooling methods like applying cool, wet cloths, or immersing them in cool water (if safe and possible). \nMonitor their condition and call emergency services immediately if they show signs of shock or lose consciousness.",
-      "bn": "[BN] In the initial stage of heat stroke first aid, the primary goal is to rapidly cool the person down while waiting for emergency medical help. \nMove the person to a cool place, remove excess clothing, and use cooling methods like applying cool, wet cloths, or immersing them in cool water (if safe and possible). \nMonitor their condition and call emergency services immediately if they show signs of shock or lose consciousness."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Seizure",
-      "hi": "[HI] Seizure",
-      "bn": "[BN] Seizure"
-    },
-    "details": {
-      "en": "The initial steps for providing first aid during a seizure are to ensure the person's safety, stay with them, and time the seizure. \nRemove any nearby hazards, cushion their head, and gently roll them onto their side if they're not already in that position. \nDo not restrain the person, put anything in their mouth, or attempt mouth-to-mouth resuscitation.",
-      "hi": "[HI] The initial steps for providing first aid during a seizure are to ensure the person's safety, stay with them, and time the seizure. \nRemove any nearby hazards, cushion their head, and gently roll them onto their side if they're not already in that position. \nDo not restrain the person, put anything in their mouth, or attempt mouth-to-mouth resuscitation.",
-      "bn": "[BN] The initial steps for providing first aid during a seizure are to ensure the person's safety, stay with them, and time the seizure. \nRemove any nearby hazards, cushion their head, and gently roll them onto their side if they're not already in that position. \nDo not restrain the person, put anything in their mouth, or attempt mouth-to-mouth resuscitation."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Ear Bleeding",
-      "hi": "[HI] Ear Bleeding",
-      "bn": "[BN] Ear Bleeding"
-    },
-    "details": {
-      "en": "For initial first aid for ear bleeding, the main focus is on stopping the bleeding, protecting the ear, and managing pain. \nFirst, apply gentle pressure to the area with a clean cloth or sterile gauze to control the bleeding. \nAvoid putting anything into the ear canal and do not try to clean the ear extensively. \nApply a cold compress (wrapped in a cloth) to reduce pain and swelling. \nIf the bleeding is severe, or if there are signs of infection (redness, swelling, discharge),seek medical attention.",
-      "hi": "[HI] For initial first aid for ear bleeding, the main focus is on stopping the bleeding, protecting the ear, and managing pain. \nFirst, apply gentle pressure to the area with a clean cloth or sterile gauze to control the bleeding. \nAvoid putting anything into the ear canal and do not try to clean the ear extensively. \nApply a cold compress (wrapped in a cloth) to reduce pain and swelling. \nIf the bleeding is severe, or if there are signs of infection (redness, swelling, discharge),seek medical attention.",
-      "bn": "[BN] For initial first aid for ear bleeding, the main focus is on stopping the bleeding, protecting the ear, and managing pain. \nFirst, apply gentle pressure to the area with a clean cloth or sterile gauze to control the bleeding. \nAvoid putting anything into the ear canal and do not try to clean the ear extensively. \nApply a cold compress (wrapped in a cloth) to reduce pain and swelling. \nIf the bleeding is severe, or if there are signs of infection (redness, swelling, discharge),seek medical attention."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Nail Injury",
-      "hi": "[HI] Nail Injury",
-      "bn": "[BN] Nail Injury"
-    },
-    "details": {
-      "en": "For initial first aid of a nail injury, the primary goal is to clean the wound, manage pain and swelling, and prevent infection. This includes gently washing the area, trimming any loose nail fragments, and applying a bandage. \nIf the injury is severe (deep cut, nail bed damage, or excessive bleeding), seek immediate medical attention according to Nationwide Children's Hospital and according to Medical News Today.",
-      "hi": "[HI] For initial first aid of a nail injury, the primary goal is to clean the wound, manage pain and swelling, and prevent infection. This includes gently washing the area, trimming any loose nail fragments, and applying a bandage. \nIf the injury is severe (deep cut, nail bed damage, or excessive bleeding), seek immediate medical attention according to Nationwide Children's Hospital and according to Medical News Today.",
-      "bn": "[BN] For initial first aid of a nail injury, the primary goal is to clean the wound, manage pain and swelling, and prevent infection. This includes gently washing the area, trimming any loose nail fragments, and applying a bandage. \nIf the injury is severe (deep cut, nail bed damage, or excessive bleeding), seek immediate medical attention according to Nationwide Children's Hospital and according to Medical News Today."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Blisters",
-      "hi": "[HI] Blisters",
-      "bn": "[BN] Blisters"
-    },
-    "details": {
-      "en": "For a blister in its initial stage, the primary goal is to protect it from further irritation and infection. \nSmall, unbroken blisters should ideally be left alone to heal naturally. \nIf the blister is large and painful, or if it has broken open, gentle cleaning and covering with a bandage is recommended.",
-      "hi": "[HI] For a blister in its initial stage, the primary goal is to protect it from further irritation and infection. \nSmall, unbroken blisters should ideally be left alone to heal naturally. \nIf the blister is large and painful, or if it has broken open, gentle cleaning and covering with a bandage is recommended.",
-      "bn": "[BN] For a blister in its initial stage, the primary goal is to protect it from further irritation and infection. \nSmall, unbroken blisters should ideally be left alone to heal naturally. \nIf the blister is large and painful, or if it has broken open, gentle cleaning and covering with a bandage is recommended."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Allergic Reaction",
-      "hi": "[HI] Allergic Reaction",
-      "bn": "[BN] Allergic Reaction"
-    },
-    "details": {
-      "en": "In the initial stage of an allergic reaction, focus on calming the individual, identifying the allergen if possible, and monitoring for worsening symptoms. \nFor mild reactions, over-the-counter antihistamines and cool compresses can help. \nIf symptoms include difficulty breathing, swelling, or signs of shock, seek immediate medical attention and use an epinephrine autoinjector if available.",
-      "hi": "[HI] In the initial stage of an allergic reaction, focus on calming the individual, identifying the allergen if possible, and monitoring for worsening symptoms. \nFor mild reactions, over-the-counter antihistamines and cool compresses can help. \nIf symptoms include difficulty breathing, swelling, or signs of shock, seek immediate medical attention and use an epinephrine autoinjector if available.",
-      "bn": "[BN] In the initial stage of an allergic reaction, focus on calming the individual, identifying the allergen if possible, and monitoring for worsening symptoms. \nFor mild reactions, over-the-counter antihistamines and cool compresses can help. \nIf symptoms include difficulty breathing, swelling, or signs of shock, seek immediate medical attention and use an epinephrine autoinjector if available."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Heart Attack",
-      "hi": "[HI] Heart Attack",
-      "bn": "[BN] Heart Attack"
-    },
-    "details": {
-      "en": "If you're trained in CPR and confident in your ability, start with 30 chest compressions before giving two rescue breaths. \nUse an automated external defibrillator (AED) if one is available and the person is unconscious. \nThe device delivers shocks to reset the heart rhythm..",
-      "hi": "[HI] If you're trained in CPR and confident in your ability, start with 30 chest compressions before giving two rescue breaths. \nUse an automated external defibrillator (AED) if one is available and the person is unconscious. \nThe device delivers shocks to reset the heart rhythm..",
-      "bn": "[BN] If you're trained in CPR and confident in your ability, start with 30 chest compressions before giving two rescue breaths. \nUse an automated external defibrillator (AED) if one is available and the person is unconscious. \nThe device delivers shocks to reset the heart rhythm.."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Stroke",
-      "hi": "[HI] Stroke",
-      "bn": "[BN] Stroke"
-    },
-    "details": {
-      "en": "In the initial stage of stroke first aid, the priority is to recognize the signs, call emergency services immediately, and ensure the person's safety and comfort while waiting for professional help. \nDo not attempt to diagnose the stroke yourself or give any medication or food.",
-      "hi": "[HI] In the initial stage of stroke first aid, the priority is to recognize the signs, call emergency services immediately, and ensure the person's safety and comfort while waiting for professional help. \nDo not attempt to diagnose the stroke yourself or give any medication or food.",
-      "bn": "[BN] In the initial stage of stroke first aid, the priority is to recognize the signs, call emergency services immediately, and ensure the person's safety and comfort while waiting for professional help. \nDo not attempt to diagnose the stroke yourself or give any medication or food."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Diarrhea",
-      "hi": "[HI] Diarrhea",
-      "bn": "[BN] Diarrhea"
-    },
-    "details": {
-      "en": "In the initial stage of diarrhea, the primary goal is to prevent dehydration by replacing lost fluids and electrolytes. \nRehydration is crucial, especially for vulnerable individuals like children and the elderly. Oral rehydration solutions (ORS) are effective for this purpose. \nAdditionally, gentle dietary adjustments, such as consuming bland, low-fiber foods, can help manage symptoms.",
-      "hi": "[HI] In the initial stage of diarrhea, the primary goal is to prevent dehydration by replacing lost fluids and electrolytes. \nRehydration is crucial, especially for vulnerable individuals like children and the elderly. Oral rehydration solutions (ORS) are effective for this purpose. \nAdditionally, gentle dietary adjustments, such as consuming bland, low-fiber foods, can help manage symptoms.",
-      "bn": "[BN] In the initial stage of diarrhea, the primary goal is to prevent dehydration by replacing lost fluids and electrolytes. \nRehydration is crucial, especially for vulnerable individuals like children and the elderly. Oral rehydration solutions (ORS) are effective for this purpose. \nAdditionally, gentle dietary adjustments, such as consuming bland, low-fiber foods, can help manage symptoms."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Constipation",
-      "hi": "[HI] Constipation",
-      "bn": "[BN] Constipation"
-    },
-    "details": {
-      "en": "In the initial stage of constipation, first aid focuses on dietary and lifestyle adjustments to encourage bowel movements. \nDrinking more water, increasing fiber intake, and engaging in regular physical activity are key steps. \nOver-the-counter options like stool softeners or osmotic laxatives can also be considered under the guidance of a pharmacist.",
-      "hi": "[HI] In the initial stage of constipation, first aid focuses on dietary and lifestyle adjustments to encourage bowel movements. \nDrinking more water, increasing fiber intake, and engaging in regular physical activity are key steps. \nOver-the-counter options like stool softeners or osmotic laxatives can also be considered under the guidance of a pharmacist.",
-      "bn": "[BN] In the initial stage of constipation, first aid focuses on dietary and lifestyle adjustments to encourage bowel movements. \nDrinking more water, increasing fiber intake, and engaging in regular physical activity are key steps. \nOver-the-counter options like stool softeners or osmotic laxatives can also be considered under the guidance of a pharmacist."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Menstrual Pain",
-      "hi": "[HI] Menstrual Pain",
-      "bn": "[BN] Menstrual Pain"
-    },
-    "details": {
-      "en": "For initial first aid of menstrual pain (also known as dysmenorrhea), focus on simple, readily available methods to ease discomfort and reduce pain. \nThese include applying heat to the lower abdomen, practicing relaxation techniques, and considering over-the-counter pain relievers.",
-      "hi": "[HI] For initial first aid of menstrual pain (also known as dysmenorrhea), focus on simple, readily available methods to ease discomfort and reduce pain. \nThese include applying heat to the lower abdomen, practicing relaxation techniques, and considering over-the-counter pain relievers.",
-      "bn": "[BN] For initial first aid of menstrual pain (also known as dysmenorrhea), focus on simple, readily available methods to ease discomfort and reduce pain. \nThese include applying heat to the lower abdomen, practicing relaxation techniques, and considering over-the-counter pain relievers."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Panic Attack",
-      "hi": "[HI] Panic Attack",
-      "bn": "[BN] Panic Attack"
-    },
-    "details": {
-      "en": "In the initial stage of a panic attack, the most crucial first aid is to stay calm, reassure the person, and help them focus on their breathing. \nRemove any potential triggers if possible and guide them to a quiet space. \nSpeak in short, simple sentences and encourage slow, deep breaths. Remember, panic attacks are temporary and the person is not in danger.",
-      "hi": "[HI] In the initial stage of a panic attack, the most crucial first aid is to stay calm, reassure the person, and help them focus on their breathing. \nRemove any potential triggers if possible and guide them to a quiet space. \nSpeak in short, simple sentences and encourage slow, deep breaths. Remember, panic attacks are temporary and the person is not in danger.",
-      "bn": "[BN] In the initial stage of a panic attack, the most crucial first aid is to stay calm, reassure the person, and help them focus on their breathing. \nRemove any potential triggers if possible and guide them to a quiet space. \nSpeak in short, simple sentences and encourage slow, deep breaths. Remember, panic attacks are temporary and the person is not in danger."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Insect Sting",
-      "hi": "[HI] Insect Sting",
-      "bn": "[BN] Insect Sting"
-    },
-    "details": {
-      "en": "For initial first aid of an insect sting, first ensure safety by moving away from the area and removing any stingers if present. \nClean the sting site with soap and water. Reduce pain and swelling with a cold pack, and consider using calamine lotion or baking soda paste for itching relief.",
-      "hi": "[HI] For initial first aid of an insect sting, first ensure safety by moving away from the area and removing any stingers if present. \nClean the sting site with soap and water. Reduce pain and swelling with a cold pack, and consider using calamine lotion or baking soda paste for itching relief.",
-      "bn": "[BN] For initial first aid of an insect sting, first ensure safety by moving away from the area and removing any stingers if present. \nClean the sting site with soap and water. Reduce pain and swelling with a cold pack, and consider using calamine lotion or baking soda paste for itching relief."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Wound Infection",
-      "hi": "[HI] Wound Infection",
-      "bn": "[BN] Wound Infection"
-    },
-    "details": {
-      "en": "In the initial stage of wound infection first aid, the primary goal is to prevent further contamination and promote healing. \nThis involves washing your hands thoroughly, stopping any bleeding, cleaning the wound, applying an antibiotic ointment (if appropriate), and covering the wound with a bandage. \nIt's crucial to monitor the wound for signs of infection and seek medical attention if needed.",
-      "hi": "[HI] In the initial stage of wound infection first aid, the primary goal is to prevent further contamination and promote healing. \nThis involves washing your hands thoroughly, stopping any bleeding, cleaning the wound, applying an antibiotic ointment (if appropriate), and covering the wound with a bandage. \nIt's crucial to monitor the wound for signs of infection and seek medical attention if needed.",
-      "bn": "[BN] In the initial stage of wound infection first aid, the primary goal is to prevent further contamination and promote healing. \nThis involves washing your hands thoroughly, stopping any bleeding, cleaning the wound, applying an antibiotic ointment (if appropriate), and covering the wound with a bandage. \nIt's crucial to monitor the wound for signs of infection and seek medical attention if needed."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Scalding",
-      "hi": "[HI] Scalding",
-      "bn": "[BN] Scalding"
-    },
-    "details": {
-      "en": "The initial stage of first aid for a scalding burn focuses on immediately cooling the burn and protecting it from infection. \nThis involves running cool (not cold) water over the burn for 10-20 minutes, covering it loosely with a sterile bandage, and managing pain. ",
-      "hi": "[HI] The initial stage of first aid for a scalding burn focuses on immediately cooling the burn and protecting it from infection. \nThis involves running cool (not cold) water over the burn for 10-20 minutes, covering it loosely with a sterile bandage, and managing pain. ",
-      "bn": "[BN] The initial stage of first aid for a scalding burn focuses on immediately cooling the burn and protecting it from infection. \nThis involves running cool (not cold) water over the burn for 10-20 minutes, covering it loosely with a sterile bandage, and managing pain. "
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Chest Pain",
-      "hi": "[HI] Chest Pain",
-      "bn": "[BN] Chest Pain"
-    },
-    "details": {
-      "en": "Start CPR if the person doesn't have a pulse or isn't breathing. If you're untrained in CPR, do hands-only CPR. \nThat means push hard and fast on the person's chest about 100 to 120 times a minute. \nIf you're trained in CPR and confident in your ability, start with 30 chest compressions before giving two rescue breaths.",
-      "hi": "[HI] Start CPR if the person doesn't have a pulse or isn't breathing. If you're untrained in CPR, do hands-only CPR. \nThat means push hard and fast on the person's chest about 100 to 120 times a minute. \nIf you're trained in CPR and confident in your ability, start with 30 chest compressions before giving two rescue breaths.",
-      "bn": "[BN] Start CPR if the person doesn't have a pulse or isn't breathing. If you're untrained in CPR, do hands-only CPR. \nThat means push hard and fast on the person's chest about 100 to 120 times a minute. \nIf you're trained in CPR and confident in your ability, start with 30 chest compressions before giving two rescue breaths."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Nosebleed",
-      "hi": "[HI] Nosebleed",
-      "bn": "[BN] Nosebleed"
-    },
-    "details": {
-      "en": "For initial first aid in a nosebleed, sit upright and lean slightly forward to prevent swallowing blood, pinch the soft part of the nose firmly for at least 10 minutes, and breathe through the mouth. \nApplying a cold compress to the bridge of the nose or the back of the neck can also help constrict blood vessels.",
-      "hi": "[HI] For initial first aid in a nosebleed, sit upright and lean slightly forward to prevent swallowing blood, pinch the soft part of the nose firmly for at least 10 minutes, and breathe through the mouth. \nApplying a cold compress to the bridge of the nose or the back of the neck can also help constrict blood vessels.",
-      "bn": "[BN] For initial first aid in a nosebleed, sit upright and lean slightly forward to prevent swallowing blood, pinch the soft part of the nose firmly for at least 10 minutes, and breathe through the mouth. \nApplying a cold compress to the bridge of the nose or the back of the neck can also help constrict blood vessels."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Jaw Injury",
-      "hi": "[HI] Jaw Injury",
-      "bn": "[BN] Jaw Injury"
-    },
-    "details": {
-      "en": "In the initial stage of a jaw injury, the priority is to stabilize the jaw, manage pain, and prevent further damage. \nGently support the jaw with your hands, and if possible, use a bandage or cloth to keep it stable.Applying a cold compress can help reduce swelling and pain. \nSeek immediate medical attention, even if initial measures provide some relief.",
-      "hi": "[HI] In the initial stage of a jaw injury, the priority is to stabilize the jaw, manage pain, and prevent further damage. \nGently support the jaw with your hands, and if possible, use a bandage or cloth to keep it stable.Applying a cold compress can help reduce swelling and pain. \nSeek immediate medical attention, even if initial measures provide some relief.",
-      "bn": "[BN] In the initial stage of a jaw injury, the priority is to stabilize the jaw, manage pain, and prevent further damage. \nGently support the jaw with your hands, and if possible, use a bandage or cloth to keep it stable.Applying a cold compress can help reduce swelling and pain. \nSeek immediate medical attention, even if initial measures provide some relief."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Scorpion Sting",
-      "hi": "[HI] Scorpion Sting",
-      "bn": "[BN] Scorpion Sting"
-    },
-    "details": {
-      "en": "For a scorpion sting, the initial first aid steps include cleaning the wound, applying a cool compress, and managing pain with over-the-counter medication if needed. \nIt's also important to keep the affected limb still and elevated, and to remove any tight clothing or jewelry from the area. \nSeeking medical advice is crucial, especially if symptoms worsen or if the scorpion is known to be venomous.",
-      "hi": "[HI] For a scorpion sting, the initial first aid steps include cleaning the wound, applying a cool compress, and managing pain with over-the-counter medication if needed. \nIt's also important to keep the affected limb still and elevated, and to remove any tight clothing or jewelry from the area. \nSeeking medical advice is crucial, especially if symptoms worsen or if the scorpion is known to be venomous.",
-      "bn": "[BN] For a scorpion sting, the initial first aid steps include cleaning the wound, applying a cool compress, and managing pain with over-the-counter medication if needed. \nIt's also important to keep the affected limb still and elevated, and to remove any tight clothing or jewelry from the area. \nSeeking medical advice is crucial, especially if symptoms worsen or if the scorpion is known to be venomous."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Lice Infestation",
-      "hi": "[HI] Lice Infestation",
-      "bn": "[BN] Lice Infestation"
-    },
-    "details": {
-      "en": "In the initial stages of a lice infestation, the most important first aid steps involve identifying the infestation, using appropriate over-the-counter treatments, and taking preventative measures to stop the spread. \nIf these steps are not successful, consulting a healthcare professional is recommended.",
-      "hi": "[HI] In the initial stages of a lice infestation, the most important first aid steps involve identifying the infestation, using appropriate over-the-counter treatments, and taking preventative measures to stop the spread. \nIf these steps are not successful, consulting a healthcare professional is recommended.",
-      "bn": "[BN] In the initial stages of a lice infestation, the most important first aid steps involve identifying the infestation, using appropriate over-the-counter treatments, and taking preventative measures to stop the spread. \nIf these steps are not successful, consulting a healthcare professional is recommended."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Foreign Object in Eye",
-      "hi": "[HI] Foreign Object in Eye",
-      "bn": "[BN] Foreign Object in Eye"
-    },
-    "details": {
-      "en": "First Aid for Foreign Objects in Eye: 13 Effective Steps ...For a foreign object in the eye, initial first aid involves gently examining the eye in a well-lit area,flushing it with water if possible, and avoiding rubbing or attempting to remove deeply embedded objects. \nIf the object is not easily removed or if there's pain, redness, or vision changes, seek immediate medical attention.",
-      "hi": "[HI] First Aid for Foreign Objects in Eye: 13 Effective Steps ...For a foreign object in the eye, initial first aid involves gently examining the eye in a well-lit area,flushing it with water if possible, and avoiding rubbing or attempting to remove deeply embedded objects. \nIf the object is not easily removed or if there's pain, redness, or vision changes, seek immediate medical attention.",
-      "bn": "[BN] First Aid for Foreign Objects in Eye: 13 Effective Steps ...For a foreign object in the eye, initial first aid involves gently examining the eye in a well-lit area,flushing it with water if possible, and avoiding rubbing or attempting to remove deeply embedded objects. \nIf the object is not easily removed or if there's pain, redness, or vision changes, seek immediate medical attention."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Foreign Object in Nose",
-      "hi": "[HI] Foreign Object in Nose",
-      "bn": "[BN] Foreign Object in Nose"
-    },
-    "details": {
-      "en": "For initial first aid with a foreign object in the nose, the key is to avoid pushing the object further in and to try to dislodge it gently. \nIf the object is partially visible, try gently grasping and removing it with tweezers. If the object is not visible or if gentle attempts fail, seek medical help. \nDo not probe the nose with your fingers or try to blow forcefully, as this can push the object deeper. .",
-      "hi": "[HI] For initial first aid with a foreign object in the nose, the key is to avoid pushing the object further in and to try to dislodge it gently. \nIf the object is partially visible, try gently grasping and removing it with tweezers. If the object is not visible or if gentle attempts fail, seek medical help. \nDo not probe the nose with your fingers or try to blow forcefully, as this can push the object deeper. .",
-      "bn": "[BN] For initial first aid with a foreign object in the nose, the key is to avoid pushing the object further in and to try to dislodge it gently. \nIf the object is partially visible, try gently grasping and removing it with tweezers. If the object is not visible or if gentle attempts fail, seek medical help. \nDo not probe the nose with your fingers or try to blow forcefully, as this can push the object deeper. ."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Foreign Object in Ear",
-      "hi": "[HI] Foreign Object in Ear",
-      "bn": "[BN] Foreign Object in Ear"
-    },
-    "details": {
-      "en": "For initial first aid with a foreign object in the ear, assess the situation, try gentle removal methods, and seek professional help if needed. \nAvoid probing or using cotton swabs, as this can push the object further in. \nIf it's an insect, try using warm oil to dislodge it. If there's pain, bleeding, or the object is not easily removable, go to a doctor immediately.",
-      "hi": "[HI] For initial first aid with a foreign object in the ear, assess the situation, try gentle removal methods, and seek professional help if needed. \nAvoid probing or using cotton swabs, as this can push the object further in. \nIf it's an insect, try using warm oil to dislodge it. If there's pain, bleeding, or the object is not easily removable, go to a doctor immediately.",
-      "bn": "[BN] For initial first aid with a foreign object in the ear, assess the situation, try gentle removal methods, and seek professional help if needed. \nAvoid probing or using cotton swabs, as this can push the object further in. \nIf it's an insect, try using warm oil to dislodge it. If there's pain, bleeding, or the object is not easily removable, go to a doctor immediately."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Mouth Injury",
-      "hi": "[HI] Mouth Injury",
-      "bn": "[BN] Mouth Injury"
-    },
-    "details": {
-      "en": "For minor mouth injuries, the initial first aid steps include stopping any bleeding by applying direct pressure with a clean cloth, rinsing the area with cool water, and using ice to reduce swelling. \nFor deeper cuts or if bleeding doesn't stop, seek professional medical attention.",
-      "hi": "[HI] For minor mouth injuries, the initial first aid steps include stopping any bleeding by applying direct pressure with a clean cloth, rinsing the area with cool water, and using ice to reduce swelling. \nFor deeper cuts or if bleeding doesn't stop, seek professional medical attention.",
-      "bn": "[BN] For minor mouth injuries, the initial first aid steps include stopping any bleeding by applying direct pressure with a clean cloth, rinsing the area with cool water, and using ice to reduce swelling. \nFor deeper cuts or if bleeding doesn't stop, seek professional medical attention."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Chemical Burn",
-      "hi": "[HI] Chemical Burn",
-      "bn": "[BN] Chemical Burn"
-    },
-    "details": {
-      "en": "The initial stage of first aid for a chemical burn involves immediate and prolonged flushing of the affected area with cool, running water to remove the chemical and minimize further damage. \nClothing and jewelry should be removed, and the area should be covered with a clean, dry cloth. \nSeek immediate medical attention, especially for severe burns or burns to sensitive areas like the eyes or mouth.",
-      "hi": "[HI] The initial stage of first aid for a chemical burn involves immediate and prolonged flushing of the affected area with cool, running water to remove the chemical and minimize further damage. \nClothing and jewelry should be removed, and the area should be covered with a clean, dry cloth. \nSeek immediate medical attention, especially for severe burns or burns to sensitive areas like the eyes or mouth.",
-      "bn": "[BN] The initial stage of first aid for a chemical burn involves immediate and prolonged flushing of the affected area with cool, running water to remove the chemical and minimize further damage. \nClothing and jewelry should be removed, and the area should be covered with a clean, dry cloth. \nSeek immediate medical attention, especially for severe burns or burns to sensitive areas like the eyes or mouth."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Hand Cramp",
-      "hi": "[HI] Hand Cramp",
-      "bn": "[BN] Hand Cramp"
-    },
-    "details": {
-      "en": "For initial stage hand cramps, focus on immediate pain relief and muscle relaxation. Gently stretch the affected hand and fingers, apply a warm compress or soak the hand in warm water to improve circulation and relax muscles. \nRest the hand and consider gentle massage. If the cramp persists or is severe, seek professional medical advice. ",
-      "hi": "[HI] For initial stage hand cramps, focus on immediate pain relief and muscle relaxation. Gently stretch the affected hand and fingers, apply a warm compress or soak the hand in warm water to improve circulation and relax muscles. \nRest the hand and consider gentle massage. If the cramp persists or is severe, seek professional medical advice. ",
-      "bn": "[BN] For initial stage hand cramps, focus on immediate pain relief and muscle relaxation. Gently stretch the affected hand and fingers, apply a warm compress or soak the hand in warm water to improve circulation and relax muscles. \nRest the hand and consider gentle massage. If the cramp persists or is severe, seek professional medical advice. "
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Leg Cramps",
-      "hi": "[HI] Leg Cramps",
-      "bn": "[BN] Leg Cramps"
-    },
-    "details": {
-      "en": "In the initial stage of a leg cramp, focus on stopping the activity causing the cramp, stretching the affected muscle, and massaging it gently. \nApplying heat or cold, and over-the-counter pain relievers can also help manage pain and discomfort.",
-      "hi": "[HI] In the initial stage of a leg cramp, focus on stopping the activity causing the cramp, stretching the affected muscle, and massaging it gently. \nApplying heat or cold, and over-the-counter pain relievers can also help manage pain and discomfort.",
-      "bn": "[BN] In the initial stage of a leg cramp, focus on stopping the activity causing the cramp, stretching the affected muscle, and massaging it gently. \nApplying heat or cold, and over-the-counter pain relievers can also help manage pain and discomfort."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Swelling",
-      "hi": "[HI] Swelling",
-      "bn": "[BN] Swelling"
-    },
-    "details": {
-      "en": "For basic first aid for swelling, particularly after an injury, \nthe RICE method is a good starting point: Rest, Ice, Compress, and Elevate. \nThis helps reduce pain, minimize swelling, and promote healingn.",
-      "hi": "[HI] For basic first aid for swelling, particularly after an injury, \nthe RICE method is a good starting point: Rest, Ice, Compress, and Elevate. \nThis helps reduce pain, minimize swelling, and promote healingn.",
-      "bn": "[BN] For basic first aid for swelling, particularly after an injury, \nthe RICE method is a good starting point: Rest, Ice, Compress, and Elevate. \nThis helps reduce pain, minimize swelling, and promote healingn."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Bruises",
-      "hi": "[HI] Bruises",
-      "bn": "[BN] Bruises"
-    },
-    "details": {
-      "en": "First Aid for Bruises: 4 Effective Relief Tips - First Aid ...For basic first aid for bruises, \napply ice or a cold pack to the injured area immediately for 10-20 minutes at a time, several times a day for the first couple of days to reduce swelling and pain. \nElevate the bruised area above the heart if possible to further minimize swelling. \nOver-the-counter pain relievers like ibuprofen or acetaminophen can help with discomfort. \nIf the bruise is severe or doesn't improve, seek medical advice. on.",
-      "hi": "[HI] First Aid for Bruises: 4 Effective Relief Tips - First Aid ...For basic first aid for bruises, \napply ice or a cold pack to the injured area immediately for 10-20 minutes at a time, several times a day for the first couple of days to reduce swelling and pain. \nElevate the bruised area above the heart if possible to further minimize swelling. \nOver-the-counter pain relievers like ibuprofen or acetaminophen can help with discomfort. \nIf the bruise is severe or doesn't improve, seek medical advice. on.",
-      "bn": "[BN] First Aid for Bruises: 4 Effective Relief Tips - First Aid ...For basic first aid for bruises, \napply ice or a cold pack to the injured area immediately for 10-20 minutes at a time, several times a day for the first couple of days to reduce swelling and pain. \nElevate the bruised area above the heart if possible to further minimize swelling. \nOver-the-counter pain relievers like ibuprofen or acetaminophen can help with discomfort. \nIf the bruise is severe or doesn't improve, seek medical advice. on."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Cold Exposure",
-      "hi": "[HI] Cold Exposure",
-      "bn": "[BN] Cold Exposure"
-    },
-    "details": {
-      "en": "Basic first aid for cold exposure includes: removing the person from the cold, removing wet clothing, warming the person gradually, and offering warm, non-alcoholic beverages. \nFor frostbite, you should also protect the area from further damage and warm it gently, \nif possible, according to the Mayo Clinic. If the person's condition worsens, seek immediate medical attention.",
-      "hi": "[HI] Basic first aid for cold exposure includes: removing the person from the cold, removing wet clothing, warming the person gradually, and offering warm, non-alcoholic beverages. \nFor frostbite, you should also protect the area from further damage and warm it gently, \nif possible, according to the Mayo Clinic. If the person's condition worsens, seek immediate medical attention.",
-      "bn": "[BN] Basic first aid for cold exposure includes: removing the person from the cold, removing wet clothing, warming the person gradually, and offering warm, non-alcoholic beverages. \nFor frostbite, you should also protect the area from further damage and warm it gently, \nif possible, according to the Mayo Clinic. If the person's condition worsens, seek immediate medical attention."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "High Fever",
-      "hi": "[HI] High Fever",
-      "bn": "[BN] High Fever"
-    },
-    "details": {
-      "en": "For high fever first aid, focus on making the person comfortable, encouraging hydration, and managing temperature with light clothing and a cool environment. \nIf the fever is very high, accompanied by other concerning symptoms, \nor doesn't respond to initial measures, seek professional medical help.",
-      "hi": "[HI] For high fever first aid, focus on making the person comfortable, encouraging hydration, and managing temperature with light clothing and a cool environment. \nIf the fever is very high, accompanied by other concerning symptoms, \nor doesn't respond to initial measures, seek professional medical help.",
-      "bn": "[BN] For high fever first aid, focus on making the person comfortable, encouraging hydration, and managing temperature with light clothing and a cool environment. \nIf the fever is very high, accompanied by other concerning symptoms, \nor doesn't respond to initial measures, seek professional medical help."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Low Blood Pressure",
-      "hi": "[HI] Low Blood Pressure",
-      "bn": "[BN] Low Blood Pressure"
-    },
-    "details": {
-      "en": "If you feel dizzy or light-headed, sit down or lie down for a few minutes. \nOr you can sit down and put your head between your knees. \nThis will help your blood pressure go back to normal and help your symptoms go away. \nFollow your doctor's suggestions for ways to prevent symptoms like dizziness..",
-      "hi": "[HI] If you feel dizzy or light-headed, sit down or lie down for a few minutes. \nOr you can sit down and put your head between your knees. \nThis will help your blood pressure go back to normal and help your symptoms go away. \nFollow your doctor's suggestions for ways to prevent symptoms like dizziness..",
-      "bn": "[BN] If you feel dizzy or light-headed, sit down or lie down for a few minutes. \nOr you can sit down and put your head between your knees. \nThis will help your blood pressure go back to normal and help your symptoms go away. \nFollow your doctor's suggestions for ways to prevent symptoms like dizziness.."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "High Blood Pressure",
-      "hi": "[HI] High Blood Pressure",
-      "bn": "[BN] High Blood Pressure"
-    },
-    "details": {
-      "en": "For sudden, severe high blood pressure (hypertensive crisis), seek immediate medical attention. \nIf you're experiencing a milder spike, try deep breathing exercises, relaxation techniques, and ensuring adequate hydration. \nIf symptoms worsen or persist, seek professional help immediately.",
-      "hi": "[HI] For sudden, severe high blood pressure (hypertensive crisis), seek immediate medical attention. \nIf you're experiencing a milder spike, try deep breathing exercises, relaxation techniques, and ensuring adequate hydration. \nIf symptoms worsen or persist, seek professional help immediately.",
-      "bn": "[BN] For sudden, severe high blood pressure (hypertensive crisis), seek immediate medical attention. \nIf you're experiencing a milder spike, try deep breathing exercises, relaxation techniques, and ensuring adequate hydration. \nIf symptoms worsen or persist, seek professional help immediately."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Hiccups",
-      "hi": "[HI] Hiccups",
-      "bn": "[BN] Hiccups"
-    },
-    "details": {
-      "en": "To help someone with hiccups, encourage them to try one of the following basic first aid techniques: hold their breath, sip cold water slowly, or breathe into a paper bag. \nThese methods can help regulate breathing and potentially stop the hiccupsn.",
-      "hi": "[HI] To help someone with hiccups, encourage them to try one of the following basic first aid techniques: hold their breath, sip cold water slowly, or breathe into a paper bag. \nThese methods can help regulate breathing and potentially stop the hiccupsn.",
-      "bn": "[BN] To help someone with hiccups, encourage them to try one of the following basic first aid techniques: hold their breath, sip cold water slowly, or breathe into a paper bag. \nThese methods can help regulate breathing and potentially stop the hiccupsn."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Fainting",
-      "hi": "[HI] Fainting",
-      "bn": "[BN] Fainting"
-    },
-    "details": {
-      "en": "If someone faints, the immediate first aid steps include laying the person down, preferably on their back, \nand elevating their legs to help improve blood flow to the brain. \nLoosen any tight clothing and check for breathing and a pulse. If the person is not breathing, begin CPR and call emergency services. \nIf they are breathing, continue to monitor them and seek medical help if they don't regain consciousness quickly or have other concerning symptoms.",
-      "hi": "[HI] If someone faints, the immediate first aid steps include laying the person down, preferably on their back, \nand elevating their legs to help improve blood flow to the brain. \nLoosen any tight clothing and check for breathing and a pulse. If the person is not breathing, begin CPR and call emergency services. \nIf they are breathing, continue to monitor them and seek medical help if they don't regain consciousness quickly or have other concerning symptoms.",
-      "bn": "[BN] If someone faints, the immediate first aid steps include laying the person down, preferably on their back, \nand elevating their legs to help improve blood flow to the brain. \nLoosen any tight clothing and check for breathing and a pulse. If the person is not breathing, begin CPR and call emergency services. \nIf they are breathing, continue to monitor them and seek medical help if they don't regain consciousness quickly or have other concerning symptoms."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Hyperventilation",
-      "hi": "[HI] Hyperventilation",
-      "bn": "[BN] Hyperventilation"
-    },
-    "details": {
-      "en": "The main focus of first aid for hyperventilation is to help the person regain control of their breathing and calm them down. \nThis can be achieved by encouraging them to breathe slowly and deeply, and by providing reassurance and a calm environment. \nIf symptoms persist or worsen, seek medical advice.n.",
-      "hi": "[HI] The main focus of first aid for hyperventilation is to help the person regain control of their breathing and calm them down. \nThis can be achieved by encouraging them to breathe slowly and deeply, and by providing reassurance and a calm environment. \nIf symptoms persist or worsen, seek medical advice.n.",
-      "bn": "[BN] The main focus of first aid for hyperventilation is to help the person regain control of their breathing and calm them down. \nThis can be achieved by encouraging them to breathe slowly and deeply, and by providing reassurance and a calm environment. \nIf symptoms persist or worsen, seek medical advice.n."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Skin Rash",
-      "hi": "[HI] Skin Rash",
-      "bn": "[BN] Skin Rash"
-    },
-    "details": {
-      "en": "For a basic skin rash, start by gently cleaning the area with mild soap and lukewarm water, and avoid hot water. \nKeep nails short to prevent scratching, which can worsen the rash and potentially lead to infection. \nApply a fragrance-free moisturizer to keep the skin hydrated. Cold compresses can help reduce inflammation and soothe itching. \nIf the rash is itchy, consider using an over-the-counter hydrocortisone cream or oral antihistamines as directed.",
-      "hi": "[HI] For a basic skin rash, start by gently cleaning the area with mild soap and lukewarm water, and avoid hot water. \nKeep nails short to prevent scratching, which can worsen the rash and potentially lead to infection. \nApply a fragrance-free moisturizer to keep the skin hydrated. Cold compresses can help reduce inflammation and soothe itching. \nIf the rash is itchy, consider using an over-the-counter hydrocortisone cream or oral antihistamines as directed.",
-      "bn": "[BN] For a basic skin rash, start by gently cleaning the area with mild soap and lukewarm water, and avoid hot water. \nKeep nails short to prevent scratching, which can worsen the rash and potentially lead to infection. \nApply a fragrance-free moisturizer to keep the skin hydrated. Cold compresses can help reduce inflammation and soothe itching. \nIf the rash is itchy, consider using an over-the-counter hydrocortisone cream or oral antihistamines as directed."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Chickenpox",
-      "hi": "[HI] Chickenpox",
-      "bn": "[BN] Chickenpox"
-    },
-    "details": {
-      "en": "Basic first aid for chickenpox focuses on relieving symptoms and preventing complications like skin infections. \nCool baths with baking soda or oatmeal, calamine lotion, and keeping fingernails trimmed to avoid scratching are helpful. \nStay hydrated and use acetaminophen for fever, avoiding aspirin. \nIsolate the individual until all blisters have crusted over.",
-      "hi": "[HI] Basic first aid for chickenpox focuses on relieving symptoms and preventing complications like skin infections. \nCool baths with baking soda or oatmeal, calamine lotion, and keeping fingernails trimmed to avoid scratching are helpful. \nStay hydrated and use acetaminophen for fever, avoiding aspirin. \nIsolate the individual until all blisters have crusted over.",
-      "bn": "[BN] Basic first aid for chickenpox focuses on relieving symptoms and preventing complications like skin infections. \nCool baths with baking soda or oatmeal, calamine lotion, and keeping fingernails trimmed to avoid scratching are helpful. \nStay hydrated and use acetaminophen for fever, avoiding aspirin. \nIsolate the individual until all blisters have crusted over."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Measles",
-      "hi": "[HI] Measles",
-      "bn": "[BN] Measles"
-    },
-    "details": {
-      "en": "Basic first aid steps for measles include staying calm, ensuring safety, and seeking appropriate medical attention.",
-      "hi": "[HI] Basic first aid steps for measles include staying calm, ensuring safety, and seeking appropriate medical attention.",
-      "bn": "[BN] Basic first aid steps for measles include staying calm, ensuring safety, and seeking appropriate medical attention."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Mumps",
-      "hi": "[HI] Mumps",
-      "bn": "[BN] Mumps"
-    },
-    "details": {
-      "en": "Basic first aid steps for mumps include staying calm, ensuring safety, and seeking appropriate medical attention.",
-      "hi": "[HI] Basic first aid steps for mumps include staying calm, ensuring safety, and seeking appropriate medical attention.",
-      "bn": "[BN] Basic first aid steps for mumps include staying calm, ensuring safety, and seeking appropriate medical attention."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Dengue Fever",
-      "hi": "[HI] Dengue Fever",
-      "bn": "[BN] Dengue Fever"
-    },
-    "details": {
-      "en": "Basic first aid steps for dengue fever include staying calm, ensuring safety, and seeking appropriate medical attention.",
-      "hi": "[HI] Basic first aid steps for dengue fever include staying calm, ensuring safety, and seeking appropriate medical attention.",
-      "bn": "[BN] Basic first aid steps for dengue fever include staying calm, ensuring safety, and seeking appropriate medical attention."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Malaria",
-      "hi": "[HI] Malaria",
-      "bn": "[BN] Malaria"
-    },
-    "details": {
-      "en": "Basic first aid for malaria focuses on supportive care and immediate medical attention. \nIf malaria is suspected, seek immediate medical help, especially if severe symptoms like high fever, seizures, or difficulty breathing are present. While waiting for professional help, encourage rest, \nkeep the person hydrated, and consider using paracetamol for fever reduction. .",
-      "hi": "[HI] Basic first aid for malaria focuses on supportive care and immediate medical attention. \nIf malaria is suspected, seek immediate medical help, especially if severe symptoms like high fever, seizures, or difficulty breathing are present. While waiting for professional help, encourage rest, \nkeep the person hydrated, and consider using paracetamol for fever reduction. .",
-      "bn": "[BN] Basic first aid for malaria focuses on supportive care and immediate medical attention. \nIf malaria is suspected, seek immediate medical help, especially if severe symptoms like high fever, seizures, or difficulty breathing are present. While waiting for professional help, encourage rest, \nkeep the person hydrated, and consider using paracetamol for fever reduction. ."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Typhoid",
-      "hi": "[HI] Typhoid",
-      "bn": "[BN] Typhoid"
-    },
-    "details": {
-      "en": "Basic first aid for typhoid fever focuses on supportive care, including hydration, rest, \nand nutritional support, while also emphasizing the importance of seeking medical attention for antibiotic treatment. \nEarly diagnosis and treatment with antibiotics are crucial to prevent complications.",
-      "hi": "[HI] Basic first aid for typhoid fever focuses on supportive care, including hydration, rest, \nand nutritional support, while also emphasizing the importance of seeking medical attention for antibiotic treatment. \nEarly diagnosis and treatment with antibiotics are crucial to prevent complications.",
-      "bn": "[BN] Basic first aid for typhoid fever focuses on supportive care, including hydration, rest, \nand nutritional support, while also emphasizing the importance of seeking medical attention for antibiotic treatment. \nEarly diagnosis and treatment with antibiotics are crucial to prevent complications."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Food Poisoning",
-      "hi": "[HI] Food Poisoning",
-      "bn": "[BN] Food Poisoning"
-    },
-    "details": {
-      "en": "Food poisoning, or foodborne illness, typically resolves on its own within a few days, \nbut first aid measures can help manage symptoms and prevent complications like dehydration. \nThe main focus of first aid is to keep the person hydrated and comfortable. n.",
-      "hi": "[HI] Food poisoning, or foodborne illness, typically resolves on its own within a few days, \nbut first aid measures can help manage symptoms and prevent complications like dehydration. \nThe main focus of first aid is to keep the person hydrated and comfortable. n.",
-      "bn": "[BN] Food poisoning, or foodborne illness, typically resolves on its own within a few days, \nbut first aid measures can help manage symptoms and prevent complications like dehydration. \nThe main focus of first aid is to keep the person hydrated and comfortable. n."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Alcohol Poisoning",
-      "hi": "[HI] Alcohol Poisoning",
-      "bn": "[BN] Alcohol Poisoning"
-    },
-    "details": {
-      "en": "If you suspect alcohol poisoning, immediately call emergency services your local emergency number. \nDo not leave the person alone, and try to keep them awake and seated upright. \nIf they are unconscious, roll them onto their side to prevent choking on vomit. \nDo not attempt to induce vomiting, and provide them with water only if they are conscious and able to sip it without choking.",
-      "hi": "[HI] If you suspect alcohol poisoning, immediately call emergency services your local emergency number. \nDo not leave the person alone, and try to keep them awake and seated upright. \nIf they are unconscious, roll them onto their side to prevent choking on vomit. \nDo not attempt to induce vomiting, and provide them with water only if they are conscious and able to sip it without choking.",
-      "bn": "[BN] If you suspect alcohol poisoning, immediately call emergency services your local emergency number. \nDo not leave the person alone, and try to keep them awake and seated upright. \nIf they are unconscious, roll them onto their side to prevent choking on vomit. \nDo not attempt to induce vomiting, and provide them with water only if they are conscious and able to sip it without choking."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Drug Overdose",
-      "hi": "[HI] Drug Overdose",
-      "bn": "[BN] Drug Overdose"
-    },
-    "details": {
-      "en": "Remove the drug from your body – for example, by giving activated charcoal, which binds the drug so the body can't absorb it. \nAdminister an antidote, when possible – for example, naloxone hydrochloride (brand names Prenoxad®, Nyxoid®, Narcan®) is a drug that can reverse opioid overdose..",
-      "hi": "[HI] Remove the drug from your body – for example, by giving activated charcoal, which binds the drug so the body can't absorb it. \nAdminister an antidote, when possible – for example, naloxone hydrochloride (brand names Prenoxad®, Nyxoid®, Narcan®) is a drug that can reverse opioid overdose..",
-      "bn": "[BN] Remove the drug from your body – for example, by giving activated charcoal, which binds the drug so the body can't absorb it. \nAdminister an antidote, when possible – for example, naloxone hydrochloride (brand names Prenoxad®, Nyxoid®, Narcan®) is a drug that can reverse opioid overdose.."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Smoke Inhalation",
-      "hi": "[HI] Smoke Inhalation",
-      "bn": "[BN] Smoke Inhalation"
-    },
-    "details": {
-      "en": "Basic treatment for smoke inhalation focuses on providing supplemental oxygen, \nmanaging airway obstruction, and addressing potential systemic toxicities like carbon monoxide or cyanide poisoning. \nImmediate removal from the source of smoke is crucial, followed by assessment and support of the patient's respiratory status. .",
-      "hi": "[HI] Basic treatment for smoke inhalation focuses on providing supplemental oxygen, \nmanaging airway obstruction, and addressing potential systemic toxicities like carbon monoxide or cyanide poisoning. \nImmediate removal from the source of smoke is crucial, followed by assessment and support of the patient's respiratory status. .",
-      "bn": "[BN] Basic treatment for smoke inhalation focuses on providing supplemental oxygen, \nmanaging airway obstruction, and addressing potential systemic toxicities like carbon monoxide or cyanide poisoning. \nImmediate removal from the source of smoke is crucial, followed by assessment and support of the patient's respiratory status. ."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Carbon Monoxide Poisoning",
-      "hi": "[HI] Carbon Monoxide Poisoning",
-      "bn": "[BN] Carbon Monoxide Poisoning"
-    },
-    "details": {
-      "en": "Get the person to fresh air Move the person away from the area exposed to carbon monoxide. \nIf the person is unconscious, check for injuries before moving. \nTurn off the source of carbon monoxide if you can do so safely..",
-      "hi": "[HI] Get the person to fresh air Move the person away from the area exposed to carbon monoxide. \nIf the person is unconscious, check for injuries before moving. \nTurn off the source of carbon monoxide if you can do so safely..",
-      "bn": "[BN] Get the person to fresh air Move the person away from the area exposed to carbon monoxide. \nIf the person is unconscious, check for injuries before moving. \nTurn off the source of carbon monoxide if you can do so safely.."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Bleeding Gums",
-      "hi": "[HI] Bleeding Gums",
-      "bn": "[BN] Bleeding Gums"
-    },
-    "details": {
-      "en": "Initial first aid for bleeding gums involves controlling the bleeding, soothing the area, and promoting healing. \nApplying pressure with a clean, damp cloth or gauze pad can help stop the flow of blood. \nRinsing with a salt water solution can reduce inflammation and clean the area. Additionally, \napplying ice wrapped in a cloth can help reduce swelling and pain.",
-      "hi": "[HI] Initial first aid for bleeding gums involves controlling the bleeding, soothing the area, and promoting healing. \nApplying pressure with a clean, damp cloth or gauze pad can help stop the flow of blood. \nRinsing with a salt water solution can reduce inflammation and clean the area. Additionally, \napplying ice wrapped in a cloth can help reduce swelling and pain.",
-      "bn": "[BN] Initial first aid for bleeding gums involves controlling the bleeding, soothing the area, and promoting healing. \nApplying pressure with a clean, damp cloth or gauze pad can help stop the flow of blood. \nRinsing with a salt water solution can reduce inflammation and clean the area. Additionally, \napplying ice wrapped in a cloth can help reduce swelling and pain."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Teething Pain",
-      "hi": "[HI] Teething Pain",
-      "bn": "[BN] Teething Pain"
-    },
-    "details": {
-      "en": "For initial first aid for teething pain in babies, the focus is on providing comfort and relief. \nGently massaging the gums with a clean finger or a cool, damp cloth can help soothe the discomfort. \nOffering a clean, chilled (not frozen) teething ring or pacifier can also provide relief as the baby chews on it. \nIf these methods aren't enough, a baby-safe pain reliever like acetaminophen (Tylenol) or ibuprofen (Advil, Motrin) can be considered.",
-      "hi": "[HI] For initial first aid for teething pain in babies, the focus is on providing comfort and relief. \nGently massaging the gums with a clean finger or a cool, damp cloth can help soothe the discomfort. \nOffering a clean, chilled (not frozen) teething ring or pacifier can also provide relief as the baby chews on it. \nIf these methods aren't enough, a baby-safe pain reliever like acetaminophen (Tylenol) or ibuprofen (Advil, Motrin) can be considered.",
-      "bn": "[BN] For initial first aid for teething pain in babies, the focus is on providing comfort and relief. \nGently massaging the gums with a clean finger or a cool, damp cloth can help soothe the discomfort. \nOffering a clean, chilled (not frozen) teething ring or pacifier can also provide relief as the baby chews on it. \nIf these methods aren't enough, a baby-safe pain reliever like acetaminophen (Tylenol) or ibuprofen (Advil, Motrin) can be considered."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Appendicitis",
-      "hi": "[HI] Appendicitis",
-      "bn": "[BN] Appendicitis"
-    },
-    "details": {
-      "en": "Do not apply heat, as this can make the inflammation worse. If possible, do not take pain relievers, \nso that the doctor can clearly identify the typical signs of pain during the examination and the diagnosis and treatment can be started quickly..",
-      "hi": "[HI] Do not apply heat, as this can make the inflammation worse. If possible, do not take pain relievers, \nso that the doctor can clearly identify the typical signs of pain during the examination and the diagnosis and treatment can be started quickly..",
-      "bn": "[BN] Do not apply heat, as this can make the inflammation worse. If possible, do not take pain relievers, \nso that the doctor can clearly identify the typical signs of pain during the examination and the diagnosis and treatment can be started quickly.."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Gas Trouble",
-      "hi": "[HI] Gas Trouble",
-      "bn": "[BN] Gas Trouble"
-    },
-    "details": {
-      "en": "For initial first aid for gas trouble, try natural remedies like ginger, fennel seeds, or ajwain, which can help relieve discomfort and promote digestion. \nGentle massage, light exercise, or yoga poses like the wind-relieving pose (Apanasana) can also help release trapped gas. \nAvoid carbonated drinks, and if symptoms persist or worsen, seek medical advice.",
-      "hi": "[HI] For initial first aid for gas trouble, try natural remedies like ginger, fennel seeds, or ajwain, which can help relieve discomfort and promote digestion. \nGentle massage, light exercise, or yoga poses like the wind-relieving pose (Apanasana) can also help release trapped gas. \nAvoid carbonated drinks, and if symptoms persist or worsen, seek medical advice.",
-      "bn": "[BN] For initial first aid for gas trouble, try natural remedies like ginger, fennel seeds, or ajwain, which can help relieve discomfort and promote digestion. \nGentle massage, light exercise, or yoga poses like the wind-relieving pose (Apanasana) can also help release trapped gas. \nAvoid carbonated drinks, and if symptoms persist or worsen, seek medical advice."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Nausea",
-      "hi": "[HI] Nausea",
-      "bn": "[BN] Nausea"
-    },
-    "details": {
-      "en": "For initial first aid for nausea, focus on resting, staying hydrated, and eating bland foods. \nAvoid strong smells and distractions. If the nausea is severe or persistent, seek medical advice.",
-      "hi": "[HI] For initial first aid for nausea, focus on resting, staying hydrated, and eating bland foods. \nAvoid strong smells and distractions. If the nausea is severe or persistent, seek medical advice.",
-      "bn": "[BN] For initial first aid for nausea, focus on resting, staying hydrated, and eating bland foods. \nAvoid strong smells and distractions. If the nausea is severe or persistent, seek medical advice."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Urinary Infection",
-      "hi": "[HI] Urinary Infection",
-      "bn": "[BN] Urinary Infection"
-    },
-    "details": {
-      "en": "For initial first aid for a urinary tract infection (UTI), focus on hydration and pain relief. \nDrink plenty of water to flush out bacteria and consider using a heating pad for comfort. \nAvoid irritants like caffeine and alcohol, and consider over-the-counter pain relievers for pain and urgency.",
-      "hi": "[HI] For initial first aid for a urinary tract infection (UTI), focus on hydration and pain relief. \nDrink plenty of water to flush out bacteria and consider using a heating pad for comfort. \nAvoid irritants like caffeine and alcohol, and consider over-the-counter pain relievers for pain and urgency.",
-      "bn": "[BN] For initial first aid for a urinary tract infection (UTI), focus on hydration and pain relief. \nDrink plenty of water to flush out bacteria and consider using a heating pad for comfort. \nAvoid irritants like caffeine and alcohol, and consider over-the-counter pain relievers for pain and urgency."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Groin Pain",
-      "hi": "[HI] Groin Pain",
-      "bn": "[BN] Groin Pain"
-    },
-    "details": {
-      "en": "For initial first aid for groin pain, focus on reducing pain and swelling using the RICE method: Rest, Ice, Compression, and Elevation. \nAvoid activities that cause pain and apply ice packs wrapped in a towel for 10-15 minutes several times a day. \nUse a compression bandage to help minimize swelling and elevate the affected area by lying down and propping it up with pillows. \nOver-the-counter pain relievers like ibuprofen or acetaminophen can also help.",
-      "hi": "[HI] For initial first aid for groin pain, focus on reducing pain and swelling using the RICE method: Rest, Ice, Compression, and Elevation. \nAvoid activities that cause pain and apply ice packs wrapped in a towel for 10-15 minutes several times a day. \nUse a compression bandage to help minimize swelling and elevate the affected area by lying down and propping it up with pillows. \nOver-the-counter pain relievers like ibuprofen or acetaminophen can also help.",
-      "bn": "[BN] For initial first aid for groin pain, focus on reducing pain and swelling using the RICE method: Rest, Ice, Compression, and Elevation. \nAvoid activities that cause pain and apply ice packs wrapped in a towel for 10-15 minutes several times a day. \nUse a compression bandage to help minimize swelling and elevate the affected area by lying down and propping it up with pillows. \nOver-the-counter pain relievers like ibuprofen or acetaminophen can also help."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Elbow Injury",
-      "hi": "[HI] Elbow Injury",
-      "bn": "[BN] Elbow Injury"
-    },
-    "details": {
-      "en": "For initial first aid of an elbow injury, the RICE method (Rest, Ice, Compression, and Elevation) is recommended. \nRest the injured arm, apply ice packs to reduce swelling, use a compression bandage to support the elbow, and elevate the arm above the heart to minimize swelling. \nIt's crucial to seek medical attention if you suspect a fracture, dislocation, or severe injury.",
-      "hi": "[HI] For initial first aid of an elbow injury, the RICE method (Rest, Ice, Compression, and Elevation) is recommended. \nRest the injured arm, apply ice packs to reduce swelling, use a compression bandage to support the elbow, and elevate the arm above the heart to minimize swelling. \nIt's crucial to seek medical attention if you suspect a fracture, dislocation, or severe injury.",
-      "bn": "[BN] For initial first aid of an elbow injury, the RICE method (Rest, Ice, Compression, and Elevation) is recommended. \nRest the injured arm, apply ice packs to reduce swelling, use a compression bandage to support the elbow, and elevate the arm above the heart to minimize swelling. \nIt's crucial to seek medical attention if you suspect a fracture, dislocation, or severe injury."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Wrist Injury",
-      "hi": "[HI] Wrist Injury",
-      "bn": "[BN] Wrist Injury"
-    },
-    "details": {
-      "en": "Learn How to Handle a Broken Wrist SafelyFor initial first aid for a wrist injury, \nprioritize the RICE protocol: Rest, Ice, Compression, and Elevation. This helps minimize swelling and pain. \nIf pain is severe or doesn't improve, seek medical attention.",
-      "hi": "[HI] Learn How to Handle a Broken Wrist SafelyFor initial first aid for a wrist injury, \nprioritize the RICE protocol: Rest, Ice, Compression, and Elevation. This helps minimize swelling and pain. \nIf pain is severe or doesn't improve, seek medical attention.",
-      "bn": "[BN] Learn How to Handle a Broken Wrist SafelyFor initial first aid for a wrist injury, \nprioritize the RICE protocol: Rest, Ice, Compression, and Elevation. This helps minimize swelling and pain. \nIf pain is severe or doesn't improve, seek medical attention."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Shoulder Dislocation",
-      "hi": "[HI] Shoulder Dislocation",
-      "bn": "[BN] Shoulder Dislocation"
-    },
-    "details": {
-      "en": "Initial first aid for a dislocated shoulder includes immobilizing the arm, \napplying ice, and seeking immediate medical attention. \nDo not attempt to relocate the shoulder yourself, as this can cause further injury.",
-      "hi": "[HI] Initial first aid for a dislocated shoulder includes immobilizing the arm, \napplying ice, and seeking immediate medical attention. \nDo not attempt to relocate the shoulder yourself, as this can cause further injury.",
-      "bn": "[BN] Initial first aid for a dislocated shoulder includes immobilizing the arm, \napplying ice, and seeking immediate medical attention. \nDo not attempt to relocate the shoulder yourself, as this can cause further injury."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Neck Pain",
-      "hi": "[HI] Neck Pain",
-      "bn": "[BN] Neck Pain"
-    },
-    "details": {
-      "en": "For initial first aid for neck pain, focus on reducing inflammation and pain using ice and over-the-counter pain relievers, \nwhile also promoting gentle movement and good posture. \nIf the pain is severe or accompanied by other concerning symptoms like numbness or weakness, seek medical attention promptly..",
-      "hi": "[HI] For initial first aid for neck pain, focus on reducing inflammation and pain using ice and over-the-counter pain relievers, \nwhile also promoting gentle movement and good posture. \nIf the pain is severe or accompanied by other concerning symptoms like numbness or weakness, seek medical attention promptly..",
-      "bn": "[BN] For initial first aid for neck pain, focus on reducing inflammation and pain using ice and over-the-counter pain relievers, \nwhile also promoting gentle movement and good posture. \nIf the pain is severe or accompanied by other concerning symptoms like numbness or weakness, seek medical attention promptly.."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Knee Injury",
-      "hi": "[HI] Knee Injury",
-      "bn": "[BN] Knee Injury"
-    },
-    "details": {
-      "en": "Initial first aid for a knee injury focuses on reducing pain and swelling. \nThe R.I.C.E. method (Rest, Ice, Compression, Elevation) is the standard approach. \nProtect the injured area, rest it, apply ice packs, compress with a bandage, and elevate the knee above the heart.",
-      "hi": "[HI] Initial first aid for a knee injury focuses on reducing pain and swelling. \nThe R.I.C.E. method (Rest, Ice, Compression, Elevation) is the standard approach. \nProtect the injured area, rest it, apply ice packs, compress with a bandage, and elevate the knee above the heart.",
-      "bn": "[BN] Initial first aid for a knee injury focuses on reducing pain and swelling. \nThe R.I.C.E. method (Rest, Ice, Compression, Elevation) is the standard approach. \nProtect the injured area, rest it, apply ice packs, compress with a bandage, and elevate the knee above the heart."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Toenail Injury",
-      "hi": "[HI] Toenail Injury",
-      "bn": "[BN] Toenail Injury"
-    },
-    "details": {
-      "en": "For initial first aid for a toenail injury, gently clean the wound with soap and water, \ntrim any loose nail fragments, and apply a bandage with petroleum jelly to keep it moist. \nIf the injury is severe, like a large flap of nail or if the toe is deformed, seek medical attention.",
-      "hi": "[HI] For initial first aid for a toenail injury, gently clean the wound with soap and water, \ntrim any loose nail fragments, and apply a bandage with petroleum jelly to keep it moist. \nIf the injury is severe, like a large flap of nail or if the toe is deformed, seek medical attention.",
-      "bn": "[BN] For initial first aid for a toenail injury, gently clean the wound with soap and water, \ntrim any loose nail fragments, and apply a bandage with petroleum jelly to keep it moist. \nIf the injury is severe, like a large flap of nail or if the toe is deformed, seek medical attention."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Skin Infection",
-      "hi": "[HI] Skin Infection",
-      "bn": "[BN] Skin Infection"
-    },
-    "details": {
-      "en": "Initial first aid for a skin infection focuses on cleaning the wound and preventing further infection. \nThis includes washing your hands, cleaning the wound with soap and water, applying an antibiotic ointment, and covering it with a bandage. \nIt's crucial to monitor the wound for signs of worsening infection, such as increased redness, \nswelling, pus, or fever, and seek professional medical help if needed.",
-      "hi": "[HI] Initial first aid for a skin infection focuses on cleaning the wound and preventing further infection. \nThis includes washing your hands, cleaning the wound with soap and water, applying an antibiotic ointment, and covering it with a bandage. \nIt's crucial to monitor the wound for signs of worsening infection, such as increased redness, \nswelling, pus, or fever, and seek professional medical help if needed.",
-      "bn": "[BN] Initial first aid for a skin infection focuses on cleaning the wound and preventing further infection. \nThis includes washing your hands, cleaning the wound with soap and water, applying an antibiotic ointment, and covering it with a bandage. \nIt's crucial to monitor the wound for signs of worsening infection, such as increased redness, \nswelling, pus, or fever, and seek professional medical help if needed."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Boils",
-      "hi": "[HI] Boils",
-      "bn": "[BN] Boils"
-    },
-    "details": {
-      "en": "For initial first aid for boils, focus on home remedies to encourage drainage and prevent infection. \nnApplying warm compresses to the affected area multiple times a day can help relieve pain and promote healing. \nOver-the-counter pain relievers can also be used to manage discomfort. \nIt's crucial to avoid squeezing or lancing the boil, as this can spread the infection.",
-      "hi": "[HI] For initial first aid for boils, focus on home remedies to encourage drainage and prevent infection. \nnApplying warm compresses to the affected area multiple times a day can help relieve pain and promote healing. \nOver-the-counter pain relievers can also be used to manage discomfort. \nIt's crucial to avoid squeezing or lancing the boil, as this can spread the infection.",
-      "bn": "[BN] For initial first aid for boils, focus on home remedies to encourage drainage and prevent infection. \nnApplying warm compresses to the affected area multiple times a day can help relieve pain and promote healing. \nOver-the-counter pain relievers can also be used to manage discomfort. \nIt's crucial to avoid squeezing or lancing the boil, as this can spread the infection."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Pimples",
-      "hi": "[HI] Pimples",
-      "bn": "[BN] Pimples"
-    },
-    "details": {
-      "en": "For immediate relief and to prevent further irritation, gently wash the affected area with a mild cleanser, \napply a warm compress, and consider using a spot treatment containing benzoyl peroxide or salicylic acid. \nAvoid picking or squeezing the pimple, as this can worsen inflammation and potentially lead to scarring.",
-      "hi": "[HI] For immediate relief and to prevent further irritation, gently wash the affected area with a mild cleanser, \napply a warm compress, and consider using a spot treatment containing benzoyl peroxide or salicylic acid. \nAvoid picking or squeezing the pimple, as this can worsen inflammation and potentially lead to scarring.",
-      "bn": "[BN] For immediate relief and to prevent further irritation, gently wash the affected area with a mild cleanser, \napply a warm compress, and consider using a spot treatment containing benzoyl peroxide or salicylic acid. \nAvoid picking or squeezing the pimple, as this can worsen inflammation and potentially lead to scarring."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Swollen Glands",
-      "hi": "[HI] Swollen Glands",
-      "bn": "[BN] Swollen Glands"
-    },
-    "details": {
-      "en": "Swollen glands (lymph nodes) often indicate your body is fighting an infection. \nInitial first aid focuses on pain relief and reducing discomfort while the body recovers. \nApplying warm compresses, taking over-the-counter pain relievers like ibuprofen or acetaminophen, and getting plenty of rest are helpful steps.",
-      "hi": "[HI] Swollen glands (lymph nodes) often indicate your body is fighting an infection. \nInitial first aid focuses on pain relief and reducing discomfort while the body recovers. \nApplying warm compresses, taking over-the-counter pain relievers like ibuprofen or acetaminophen, and getting plenty of rest are helpful steps.",
-      "bn": "[BN] Swollen glands (lymph nodes) often indicate your body is fighting an infection. \nInitial first aid focuses on pain relief and reducing discomfort while the body recovers. \nApplying warm compresses, taking over-the-counter pain relievers like ibuprofen or acetaminophen, and getting plenty of rest are helpful steps."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Tick Bite",
-      "hi": "[HI] Tick Bite",
-      "bn": "[BN] Tick Bite"
-    },
-    "details": {
-      "en": "If you've been bitten by a tick, promptly and carefully remove it, clean the area, and monitor for any signs of illness. \nUse fine-tipped tweezers to grasp the tick as close to the skin as possible, and pull upward with steady, even pressure. Avoid twisting or jerking the tick. \nClean the bite site and your hands with soap and water or rubbing alcohol. \nBe aware of symptoms like rash, fever, or flu-like symptoms and seek medical advice if they appear.",
-      "hi": "[HI] If you've been bitten by a tick, promptly and carefully remove it, clean the area, and monitor for any signs of illness. \nUse fine-tipped tweezers to grasp the tick as close to the skin as possible, and pull upward with steady, even pressure. Avoid twisting or jerking the tick. \nClean the bite site and your hands with soap and water or rubbing alcohol. \nBe aware of symptoms like rash, fever, or flu-like symptoms and seek medical advice if they appear.",
-      "bn": "[BN] If you've been bitten by a tick, promptly and carefully remove it, clean the area, and monitor for any signs of illness. \nUse fine-tipped tweezers to grasp the tick as close to the skin as possible, and pull upward with steady, even pressure. Avoid twisting or jerking the tick. \nClean the bite site and your hands with soap and water or rubbing alcohol. \nBe aware of symptoms like rash, fever, or flu-like symptoms and seek medical advice if they appear."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Leech Bite",
-      "hi": "[HI] Leech Bite",
-      "bn": "[BN] Leech Bite"
-    },
-    "details": {
-      "en": "After removing a leech, clean the bite area thoroughly with soap and water. \nApply direct pressure to stop any bleeding, and cover the wound with a bandage. \nIf the bleeding is prolonged or the wound shows signs of infection, seek medical advice.",
-      "hi": "[HI] After removing a leech, clean the bite area thoroughly with soap and water. \nApply direct pressure to stop any bleeding, and cover the wound with a bandage. \nIf the bleeding is prolonged or the wound shows signs of infection, seek medical advice.",
-      "bn": "[BN] After removing a leech, clean the bite area thoroughly with soap and water. \nApply direct pressure to stop any bleeding, and cover the wound with a bandage. \nIf the bleeding is prolonged or the wound shows signs of infection, seek medical advice."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Jellyfish Sting",
-      "hi": "[HI] Jellyfish Sting",
-      "bn": "[BN] Jellyfish Sting"
-    },
-    "details": {
-      "en": "For jellyfish stings, the immediate first aid involves removing the tentacles, rinsing with seawater, and soaking the area in hot water (if available and tolerated). Vinegar can be used for some stings, \nbut not all, to neutralize the venom. If symptoms are severe or don't improve, seek medical attention. .",
-      "hi": "[HI] For jellyfish stings, the immediate first aid involves removing the tentacles, rinsing with seawater, and soaking the area in hot water (if available and tolerated). Vinegar can be used for some stings, \nbut not all, to neutralize the venom. If symptoms are severe or don't improve, seek medical attention. .",
-      "bn": "[BN] For jellyfish stings, the immediate first aid involves removing the tentacles, rinsing with seawater, and soaking the area in hot water (if available and tolerated). Vinegar can be used for some stings, \nbut not all, to neutralize the venom. If symptoms are severe or don't improve, seek medical attention. ."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Food Allergy",
-      "hi": "[HI] Food Allergy",
-      "bn": "[BN] Food Allergy"
-    },
-    "details": {
-      "en": "The first line treatment is injection of adrenaline (epinephrine) into the outer mid-thigh. \nDo not allow the person to stand or walk. Give further doses of adrenaline if there is no response after 5 minutes..",
-      "hi": "[HI] The first line treatment is injection of adrenaline (epinephrine) into the outer mid-thigh. \nDo not allow the person to stand or walk. Give further doses of adrenaline if there is no response after 5 minutes..",
-      "bn": "[BN] The first line treatment is injection of adrenaline (epinephrine) into the outer mid-thigh. \nDo not allow the person to stand or walk. Give further doses of adrenaline if there is no response after 5 minutes.."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Cold Sores",
-      "hi": "[HI] Cold Sores",
-      "bn": "[BN] Cold Sores"
-    },
-    "details": {
-      "en": "Basic first aid for cold sores includes using over-the-counter creams or ointments, applying a cold compress, and managing pain with over-the-counter medications. \nIt's also crucial to avoid touching the sore, maintain good hygiene, and protect the area from sunlight. .",
-      "hi": "[HI] Basic first aid for cold sores includes using over-the-counter creams or ointments, applying a cold compress, and managing pain with over-the-counter medications. \nIt's also crucial to avoid touching the sore, maintain good hygiene, and protect the area from sunlight. .",
-      "bn": "[BN] Basic first aid for cold sores includes using over-the-counter creams or ointments, applying a cold compress, and managing pain with over-the-counter medications. \nIt's also crucial to avoid touching the sore, maintain good hygiene, and protect the area from sunlight. ."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Lung Infection",
-      "hi": "[HI] Lung Infection",
-      "bn": "[BN] Lung Infection"
-    },
-    "details": {
-      "en": "For basic first aid for a lung infection, focus on supporting breathing, managing symptoms, and seeking professional medical help. \nEncourage rest, hydration, and consider using a cool-mist humidifier or taking steamy showers to help loosen congestion. \nIf breathing becomes difficult, seek immediate medical attention.",
-      "hi": "[HI] For basic first aid for a lung infection, focus on supporting breathing, managing symptoms, and seeking professional medical help. \nEncourage rest, hydration, and consider using a cool-mist humidifier or taking steamy showers to help loosen congestion. \nIf breathing becomes difficult, seek immediate medical attention.",
-      "bn": "[BN] For basic first aid for a lung infection, focus on supporting breathing, managing symptoms, and seeking professional medical help. \nEncourage rest, hydration, and consider using a cool-mist humidifier or taking steamy showers to help loosen congestion. \nIf breathing becomes difficult, seek immediate medical attention."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Bee Sting",
-      "hi": "[HI] Bee Sting",
-      "bn": "[BN] Bee Sting"
-    },
-    "details": {
-      "en": "quickly remove the stinger (if present) by scraping it out with a fingernail or credit card, wash the area with soap and water, and apply a cold compress to reduce swelling and pain. If the person is allergic, seek immediate medical attention. ",
-      "hi": "[HI] quickly remove the stinger (if present) by scraping it out with a fingernail or credit card, wash the area with soap and water, and apply a cold compress to reduce swelling and pain. If the person is allergic, seek immediate medical attention. ",
-      "bn": "[BN] quickly remove the stinger (if present) by scraping it out with a fingernail or credit card, wash the area with soap and water, and apply a cold compress to reduce swelling and pain. If the person is allergic, seek immediate medical attention. "
-    },
-    "remarks": {
-      "en": "Always consult a doctor for serious cases",
-      "hi": "[HI] Always consult a doctor for serious cases",
-      "bn": "[BN] Always consult a doctor for serious cases"
-    }
-  },
-  {
-    "title": {
-      "en": "Filaria",
-      "hi": "[HI] Filaria",
-      "bn": "[BN] Filaria"
-    },
-    "details": {
-      "en": "Filaria is caused by parasitic worms transmitted by mosquito bites. \nSymptoms include swelling of limbs or genitals. Maintain good hygiene and avoid mosquito exposure. \nSeek medical evaluation for diagnosis and treatment.",
-      "hi": "[HI] Filaria is caused by parasitic worms transmitted by mosquito bites. \nSymptoms include swelling of limbs or genitals. Maintain good hygiene and avoid mosquito exposure. \nSeek medical evaluation for diagnosis and treatment.",
-      "bn": "[BN] Filaria is caused by parasitic worms transmitted by mosquito bites. \nSymptoms include swelling of limbs or genitals. Maintain good hygiene and avoid mosquito exposure. \nSeek medical evaluation for diagnosis and treatment."
-    },
-    "remarks": {
-      "en": "Always consult a doctor for diagnosis and long-term treatment",
-      "hi": "[HI] Always consult a doctor for diagnosis and long-term treatment",
-      "bn": "[BN] Always consult a doctor for diagnosis and long-term treatment"
-    }
-  },
-  {
-    "title": {
-      "en": "Chickenpox",
-      "hi": "[HI] Chickenpox",
-      "bn": "[BN] Chickenpox"
-    },
-    "details": {
-      "en": "Chickenpox is a contagious viral infection that causes an itchy skin rash and blisters. \nIsolate the patient to prevent spreading. \nApply calamine lotion and keep nails trimmed to avoid skin damage from scratching.",
-      "hi": "[HI] Chickenpox is a contagious viral infection that causes an itchy skin rash and blisters. \nIsolate the patient to prevent spreading. \nApply calamine lotion and keep nails trimmed to avoid skin damage from scratching.",
-      "bn": "[BN] Chickenpox is a contagious viral infection that causes an itchy skin rash and blisters. \nIsolate the patient to prevent spreading. \nApply calamine lotion and keep nails trimmed to avoid skin damage from scratching."
-    },
-    "remarks": {
-      "en": "Always consult a doctor, especially in adults or severe cases.",
-      "hi": "[HI] Always consult a doctor, especially in adults or severe cases.",
-      "bn": "[BN] Always consult a doctor, especially in adults or severe cases."
-    }
-  },
-  {
-    "title": {
-      "en": "Plague",
-      "hi": "[HI] Plague",
-      "bn": "[BN] Plague"
-    },
-    "details": {
-      "en": "Plague is a serious bacterial disease often spread by fleas on rodents. \nSymptoms may include fever, chills, and swollen lymph nodes. Immediate medical attention is critical. \nAvoid contact with wild animals and maintain hygiene.",
-      "hi": "[HI] Plague is a serious bacterial disease often spread by fleas on rodents. \nSymptoms may include fever, chills, and swollen lymph nodes. Immediate medical attention is critical. \nAvoid contact with wild animals and maintain hygiene.",
-      "bn": "[BN] Plague is a serious bacterial disease often spread by fleas on rodents. \nSymptoms may include fever, chills, and swollen lymph nodes. Immediate medical attention is critical. \nAvoid contact with wild animals and maintain hygiene."
-    },
-    "remarks": {
-      "en": "This is a medical emergency — consult a doctor immediately",
-      "hi": "[HI] This is a medical emergency — consult a doctor immediately",
-      "bn": "[BN] This is a medical emergency — consult a doctor immediately"
-    }
-  },
-  {
-    "title": {
-      "en": "Jaundice",
-      "hi": "[HI] Jaundice",
-      "bn": "[BN] Jaundice"
-    },
-    "details": {
-      "en": "Jaundice causes yellowing of the skin and eyes due to high bilirubin levels, often from liver problems. \nEnsure rest, hydrate well, and avoid oily or alcoholic foods. \nMonitor symptoms closely.",
-      "hi": "[HI] Jaundice causes yellowing of the skin and eyes due to high bilirubin levels, often from liver problems. \nEnsure rest, hydrate well, and avoid oily or alcoholic foods. \nMonitor symptoms closely.",
-      "bn": "[BN] Jaundice causes yellowing of the skin and eyes due to high bilirubin levels, often from liver problems. \nEnsure rest, hydrate well, and avoid oily or alcoholic foods. \nMonitor symptoms closely."
-    },
-    "remarks": {
-      "en": "Consult a doctor to determine the underlying cause",
-      "hi": "[HI] Consult a doctor to determine the underlying cause",
-      "bn": "[BN] Consult a doctor to determine the underlying cause"
-    }
-  }
+    "title": "Foreign Object in Nose",
+    "details": "For initial first aid with a foreign object in the nose, the key is to avoid pushing the object further in and to try to dislodge it gently. \nIf the object is partially visible, try gently grasping and removing it with tweezers. If the object is not visible or if gentle attempts fail, seek medical help. \nDo not probe the nose with your fingers or try to blow forcefully, as this can push the object deeper. .",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Foreign Object in Ear",
+    "details": "For initial first aid with a foreign object in the ear, assess the situation, try gentle removal methods, and seek professional help if needed. \nAvoid probing or using cotton swabs, as this can push the object further in. \nIf it's an insect, try using warm oil to dislodge it. If there's pain, bleeding, or the object is not easily removable, go to a doctor immediately.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Mouth Injury",
+    "details": "For minor mouth injuries, the initial first aid steps include stopping any bleeding by applying direct pressure with a clean cloth, rinsing the area with cool water, and using ice to reduce swelling. \nFor deeper cuts or if bleeding doesn't stop, seek professional medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Chemical Burn",
+    "details": "The initial stage of first aid for a chemical burn involves immediate and prolonged flushing of the affected area with cool, running water to remove the chemical and minimize further damage. \nClothing and jewelry should be removed, and the area should be covered with a clean, dry cloth. \nSeek immediate medical attention, especially for severe burns or burns to sensitive areas like the eyes or mouth.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Hand Cramp",
+    "details": "For initial stage hand cramps, focus on immediate pain relief and muscle relaxation. Gently stretch the affected hand and fingers, apply a warm compress or soak the hand in warm water to improve circulation and relax muscles. \nRest the hand and consider gentle massage. If the cramp persists or is severe, seek professional medical advice. ",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Leg Cramps",
+    "details": "In the initial stage of a leg cramp, focus on stopping the activity causing the cramp, stretching the affected muscle, and massaging it gently. \nApplying heat or cold, and over-the-counter pain relievers can also help manage pain and discomfort.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Swelling",
+    "details": "For basic first aid for swelling, particularly after an injury, \nthe RICE method is a good starting point: Rest, Ice, Compress, and Elevate. \nThis helps reduce pain, minimize swelling, and promote healingn.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Bruises",
+    "details": "First Aid for Bruises: 4 Effective Relief Tips - First Aid ...For basic first aid for bruises, \napply ice or a cold pack to the injured area immediately for 10-20 minutes at a time, several times a day for the first couple of days to reduce swelling and pain. \nElevate the bruised area above the heart if possible to further minimize swelling. \nOver-the-counter pain relievers like ibuprofen or acetaminophen can help with discomfort. \nIf the bruise is severe or doesn't improve, seek medical advice. on.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Cold Exposure",
+    "details": "Basic first aid for cold exposure includes: removing the person from the cold, removing wet clothing, warming the person gradually, and offering warm, non-alcoholic beverages. \nFor frostbite, you should also protect the area from further damage and warm it gently, \nif possible, according to the Mayo Clinic. If the person's condition worsens, seek immediate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "High Fever",
+    "details": "For high fever first aid, focus on making the person comfortable, encouraging hydration, and managing temperature with light clothing and a cool environment. \nIf the fever is very high, accompanied by other concerning symptoms, \nor doesn't respond to initial measures, seek professional medical help.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Low Blood Pressure",
+    "details": "If you feel dizzy or light-headed, sit down or lie down for a few minutes. \nOr you can sit down and put your head between your knees. \nThis will help your blood pressure go back to normal and help your symptoms go away. \nFollow your doctor's suggestions for ways to prevent symptoms like dizziness..",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "High Blood Pressure",
+    "details": "For sudden, severe high blood pressure (hypertensive crisis), seek immediate medical attention. \nIf you're experiencing a milder spike, try deep breathing exercises, relaxation techniques, and ensuring adequate hydration. \nIf symptoms worsen or persist, seek professional help immediately.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Hiccups",
+    "details": "To help someone with hiccups, encourage them to try one of the following basic first aid techniques: hold their breath, sip cold water slowly, or breathe into a paper bag. \nThese methods can help regulate breathing and potentially stop the hiccupsn.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Fainting",
+    "details": "If someone faints, the immediate first aid steps include laying the person down, preferably on their back, \nand elevating their legs to help improve blood flow to the brain. \nLoosen any tight clothing and check for breathing and a pulse. If the person is not breathing, begin CPR and call emergency services. \nIf they are breathing, continue to monitor them and seek medical help if they don't regain consciousness quickly or have other concerning symptoms.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Hyperventilation",
+    "details": "The main focus of first aid for hyperventilation is to help the person regain control of their breathing and calm them down. \nThis can be achieved by encouraging them to breathe slowly and deeply, and by providing reassurance and a calm environment. \nIf symptoms persist or worsen, seek medical advice.n.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Skin Rash",
+    "details": "For a basic skin rash, start by gently cleaning the area with mild soap and lukewarm water, and avoid hot water. \nKeep nails short to prevent scratching, which can worsen the rash and potentially lead to infection. \nApply a fragrance-free moisturizer to keep the skin hydrated. Cold compresses can help reduce inflammation and soothe itching. \nIf the rash is itchy, consider using an over-the-counter hydrocortisone cream or oral antihistamines as directed.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Chickenpox",
+    "details": "Basic first aid for chickenpox focuses on relieving symptoms and preventing complications like skin infections. \nCool baths with baking soda or oatmeal, calamine lotion, and keeping fingernails trimmed to avoid scratching are helpful. \nStay hydrated and use acetaminophen for fever, avoiding aspirin. \nIsolate the individual until all blisters have crusted over.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Measles",
+    "details": "Basic first aid steps for measles include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Mumps",
+    "details": "Basic first aid steps for mumps include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Dengue Fever",
+    "details": "Basic first aid steps for dengue fever include staying calm, ensuring safety, and seeking appropriate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Malaria",
+    "details": "Basic first aid for malaria focuses on supportive care and immediate medical attention. \nIf malaria is suspected, seek immediate medical help, especially if severe symptoms like high fever, seizures, or difficulty breathing are present. While waiting for professional help, encourage rest, \nkeep the person hydrated, and consider using paracetamol for fever reduction. .",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Typhoid",
+    "details": "Basic first aid for typhoid fever focuses on supportive care, including hydration, rest, \nand nutritional support, while also emphasizing the importance of seeking medical attention for antibiotic treatment. \nEarly diagnosis and treatment with antibiotics are crucial to prevent complications.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Food Poisoning",
+    "details": "Food poisoning, or foodborne illness, typically resolves on its own within a few days, \nbut first aid measures can help manage symptoms and prevent complications like dehydration. \nThe main focus of first aid is to keep the person hydrated and comfortable. n.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Alcohol Poisoning",
+    "details": "If you suspect alcohol poisoning, immediately call emergency services your local emergency number. \nDo not leave the person alone, and try to keep them awake and seated upright. \nIf they are unconscious, roll them onto their side to prevent choking on vomit. \nDo not attempt to induce vomiting, and provide them with water only if they are conscious and able to sip it without choking.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Drug Overdose",
+    "details": "Remove the drug from your body – for example, by giving activated charcoal, which binds the drug so the body can't absorb it. \nAdminister an antidote, when possible – for example, naloxone hydrochloride (brand names Prenoxad®, Nyxoid®, Narcan®) is a drug that can reverse opioid overdose..",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Smoke Inhalation",
+    "details": "Basic treatment for smoke inhalation focuses on providing supplemental oxygen, \nmanaging airway obstruction, and addressing potential systemic toxicities like carbon monoxide or cyanide poisoning. \nImmediate removal from the source of smoke is crucial, followed by assessment and support of the patient's respiratory status. .",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Carbon Monoxide Poisoning",
+    "details": "Get the person to fresh air Move the person away from the area exposed to carbon monoxide. \nIf the person is unconscious, check for injuries before moving. \nTurn off the source of carbon monoxide if you can do so safely..",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Bleeding Gums",
+    "details": "Initial first aid for bleeding gums involves controlling the bleeding, soothing the area, and promoting healing. \nApplying pressure with a clean, damp cloth or gauze pad can help stop the flow of blood. \nRinsing with a salt water solution can reduce inflammation and clean the area. Additionally, \napplying ice wrapped in a cloth can help reduce swelling and pain.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Teething Pain",
+    "details": "For initial first aid for teething pain in babies, the focus is on providing comfort and relief. \nGently massaging the gums with a clean finger or a cool, damp cloth can help soothe the discomfort. \nOffering a clean, chilled (not frozen) teething ring or pacifier can also provide relief as the baby chews on it. \nIf these methods aren't enough, a baby-safe pain reliever like acetaminophen (Tylenol) or ibuprofen (Advil, Motrin) can be considered.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Appendicitis",
+    "details": "Do not apply heat, as this can make the inflammation worse. If possible, do not take pain relievers, \nso that the doctor can clearly identify the typical signs of pain during the examination and the diagnosis and treatment can be started quickly..",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Gas Trouble",
+    "details": "For initial first aid for gas trouble, try natural remedies like ginger, fennel seeds, or ajwain, which can help relieve discomfort and promote digestion. \nGentle massage, light exercise, or yoga poses like the wind-relieving pose (Apanasana) can also help release trapped gas. \nAvoid carbonated drinks, and if symptoms persist or worsen, seek medical advice.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Nausea",
+    "details": "For initial first aid for nausea, focus on resting, staying hydrated, and eating bland foods. \nAvoid strong smells and distractions. If the nausea is severe or persistent, seek medical advice.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Urinary Infection",
+    "details": "For initial first aid for a urinary tract infection (UTI), focus on hydration and pain relief. \nDrink plenty of water to flush out bacteria and consider using a heating pad for comfort. \nAvoid irritants like caffeine and alcohol, and consider over-the-counter pain relievers for pain and urgency.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Groin Pain",
+    "details": "For initial first aid for groin pain, focus on reducing pain and swelling using the RICE method: Rest, Ice, Compression, and Elevation. \nAvoid activities that cause pain and apply ice packs wrapped in a towel for 10-15 minutes several times a day. \nUse a compression bandage to help minimize swelling and elevate the affected area by lying down and propping it up with pillows. \nOver-the-counter pain relievers like ibuprofen or acetaminophen can also help.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Elbow Injury",
+    "details": "For initial first aid of an elbow injury, the RICE method (Rest, Ice, Compression, and Elevation) is recommended. \nRest the injured arm, apply ice packs to reduce swelling, use a compression bandage to support the elbow, and elevate the arm above the heart to minimize swelling. \nIt's crucial to seek medical attention if you suspect a fracture, dislocation, or severe injury.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Wrist Injury",
+    "details": "Learn How to Handle a Broken Wrist SafelyFor initial first aid for a wrist injury, \nprioritize the RICE protocol: Rest, Ice, Compression, and Elevation. This helps minimize swelling and pain. \nIf pain is severe or doesn't improve, seek medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Shoulder Dislocation",
+    "details": "Initial first aid for a dislocated shoulder includes immobilizing the arm, \napplying ice, and seeking immediate medical attention. \nDo not attempt to relocate the shoulder yourself, as this can cause further injury.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Neck Pain",
+    "details": "For initial first aid for neck pain, focus on reducing inflammation and pain using ice and over-the-counter pain relievers, \nwhile also promoting gentle movement and good posture. \nIf the pain is severe or accompanied by other concerning symptoms like numbness or weakness, seek medical attention promptly..",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Knee Injury",
+    "details": "Initial first aid for a knee injury focuses on reducing pain and swelling. \nThe R.I.C.E. method (Rest, Ice, Compression, Elevation) is the standard approach. \nProtect the injured area, rest it, apply ice packs, compress with a bandage, and elevate the knee above the heart.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Toenail Injury",
+    "details": "For initial first aid for a toenail injury, gently clean the wound with soap and water, \ntrim any loose nail fragments, and apply a bandage with petroleum jelly to keep it moist. \nIf the injury is severe, like a large flap of nail or if the toe is deformed, seek medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Skin Infection",
+    "details": "Initial first aid for a skin infection focuses on cleaning the wound and preventing further infection. \nThis includes washing your hands, cleaning the wound with soap and water, applying an antibiotic ointment, and covering it with a bandage. \nIt's crucial to monitor the wound for signs of worsening infection, such as increased redness, \nswelling, pus, or fever, and seek professional medical help if needed.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Boils",
+    "details": "For initial first aid for boils, focus on home remedies to encourage drainage and prevent infection. \nnApplying warm compresses to the affected area multiple times a day can help relieve pain and promote healing. \nOver-the-counter pain relievers can also be used to manage discomfort. \nIt's crucial to avoid squeezing or lancing the boil, as this can spread the infection.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Pimples",
+    "details": "For immediate relief and to prevent further irritation, gently wash the affected area with a mild cleanser, \napply a warm compress, and consider using a spot treatment containing benzoyl peroxide or salicylic acid. \nAvoid picking or squeezing the pimple, as this can worsen inflammation and potentially lead to scarring.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Swollen Glands",
+    "details": "Swollen glands (lymph nodes) often indicate your body is fighting an infection. \nInitial first aid focuses on pain relief and reducing discomfort while the body recovers. \nApplying warm compresses, taking over-the-counter pain relievers like ibuprofen or acetaminophen, and getting plenty of rest are helpful steps.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Tick Bite",
+    "details": "If you've been bitten by a tick, promptly and carefully remove it, clean the area, and monitor for any signs of illness. \nUse fine-tipped tweezers to grasp the tick as close to the skin as possible, and pull upward with steady, even pressure. Avoid twisting or jerking the tick. \nClean the bite site and your hands with soap and water or rubbing alcohol. \nBe aware of symptoms like rash, fever, or flu-like symptoms and seek medical advice if they appear.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Leech Bite",
+    "details": "After removing a leech, clean the bite area thoroughly with soap and water. \nApply direct pressure to stop any bleeding, and cover the wound with a bandage. \nIf the bleeding is prolonged or the wound shows signs of infection, seek medical advice.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Jellyfish Sting",
+    "details": "For jellyfish stings, the immediate first aid involves removing the tentacles, rinsing with seawater, and soaking the area in hot water (if available and tolerated). Vinegar can be used for some stings, \nbut not all, to neutralize the venom. If symptoms are severe or don't improve, seek medical attention. .",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Food Allergy",
+    "details": "The first line treatment is injection of adrenaline (epinephrine) into the outer mid-thigh. \nDo not allow the person to stand or walk. Give further doses of adrenaline if there is no response after 5 minutes..",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Cold Sores",
+    "details": "Basic first aid for cold sores includes using over-the-counter creams or ointments, applying a cold compress, and managing pain with over-the-counter medications. \nIt's also crucial to avoid touching the sore, maintain good hygiene, and protect the area from sunlight. .",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+  {
+    "title": "Lung Infection",
+    "details": "For basic first aid for a lung infection, focus on supporting breathing, managing symptoms, and seeking professional medical help. \nEncourage rest, hydration, and consider using a cool-mist humidifier or taking steamy showers to help loosen congestion. \nIf breathing becomes difficult, seek immediate medical attention.",
+    "remarkes": "Always consult a doctor for serious cases"
+  },
+{
+  "title": "Bee Sting",
+  "details": "quickly remove the stinger (if present) by scraping it out with a fingernail or credit card, wash the area with soap and water, and apply a cold compress to reduce swelling and pain. If the person is allergic, seek immediate medical attention. ",
+  "remarkes": "Always consult a doctor for serious cases"
+},
+{
+  "title": "Filaria",
+  "details": "Filaria is caused by parasitic worms transmitted by mosquito bites. \nSymptoms include swelling of limbs or genitals. Maintain good hygiene and avoid mosquito exposure. \nSeek medical evaluation for diagnosis and treatment.",
+  "remarkes": "Always consult a doctor for diagnosis and long-term treatment"
+},
+{
+  "title": "Chickenpox",
+  "details": "Chickenpox is a contagious viral infection that causes an itchy skin rash and blisters. \nIsolate the patient to prevent spreading. \nApply calamine lotion and keep nails trimmed to avoid skin damage from scratching.",
+  "remarkes": "Always consult a doctor, especially in adults or severe cases."
+},
+{
+  "title": "Plague",
+  "details": "Plague is a serious bacterial disease often spread by fleas on rodents. \nSymptoms may include fever, chills, and swollen lymph nodes. Immediate medical attention is critical. \nAvoid contact with wild animals and maintain hygiene.",
+  "remarkes": "This is a medical emergency — consult a doctor immediately"
+},
+{
+  "title": "Jaundice",
+  "details": "Jaundice causes yellowing of the skin and eyes due to high bilirubin levels, often from liver problems. \nEnsure rest, hydrate well, and avoid oily or alcoholic foods. \nMonitor symptoms closely.",
+  "remarkes": "Consult a doctor to determine the underlying cause"
+}
+
 ]
